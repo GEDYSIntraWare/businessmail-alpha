@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>monitor_sleep icon</title>
+	<desc>monitor_sleep icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29" d="M5500 500l0 3800 -5200 0 0 -3800 5200 0zm-3800 4800l1100 0 0 -800 200 0 0 800 1100 0 0 200 -2400 0 0 -200zm3600 -4600l-4800 0 0 3400 4800 0 0 -3400z"/>
+	<path id="curve28" d="M1705 2396c1,359 146,684 381,919 236,236 561,381 920,381 69,0 144,-8 218,-20 -199,-80 -375,-205 -515,-362 -218,-244 -351,-565 -351,-918 0,-352 133,-674 351,-918 140,-157 316,-282 515,-362 -72,-12 -146,-20 -218,-20 -359,0 -684,146 -920,381 -235,235 -381,560 -381,919zm1301 -1500c107,0 227,16 336,40 120,26 230,64 300,102l278 152 -315 35c-296,33 -559,175 -748,386 -186,208 -299,483 -299,785 0,302 113,577 299,786 189,210 452,353 748,385l315 35 -278 152c-164,90 -449,142 -636,142 -415,0 -790,-168 -1061,-439 -271,-272 -439,-647 -439,-1061 0,-414 168,-789 439,-1061 271,-271 646,-439 1061,-439z"/>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>spellcheck icon</title>
+	<desc>spellcheck icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29" d="M991 2800l618 0 -277 -700 -64 0 -277 700zm688 200l-758 0c-3,13 -6,25 -8,38 -16,88 -13,174 -13,262l-200 0c0,-101 -2,-196 16,-296 11,-63 29,-126 55,-192l336 -849c16,-39 53,-63 93,-63l200 0c44,0 81,28 94,67l335 845c24,61 44,127 55,192 18,100 16,195 16,296l-200 0c0,-88 3,-174 -13,-262 -2,-13 -5,-25 -8,-38zm3221 -600c0,-165 -135,-300 -300,-300l-200 0c-165,0 -300,135 -300,300l0 376 -176 176c-16,-48 -24,-99 -24,-152l0 -400c0,-276 225,-500 500,-500l200 0c276,0 500,224 500,500l-200 0zm-275 699c155,-13 275,-144 275,-299l200 0c0,276 -224,500 -500,500l-176 0 201 -201zm-1319 -542c28,17 54,37 77,60 75,76 117,177 117,283 0,220 -180,400 -400,400 -267,0 -533,0 -800,0 0,-467 0,-933 0,-1400l700 0c220,0 400,180 400,400 0,98 -36,187 -94,257zm-806 543l600 0c55,0 105,-22 141,-59 38,-37 59,-88 59,-141 0,-55 -22,-105 -59,-141 -36,-37 -86,-59 -141,-59l-600 0 0 400zm0 -1000l0 400 500 0c111,0 200,-89 200,-200 0,-110 -90,-200 -200,-200l-500 0z"/>
+	<path id="curve28" d="M4571,2871 2600,4841 1629,3871 1771,3729 2600,4559 4429,2729z"/>
+</svg>

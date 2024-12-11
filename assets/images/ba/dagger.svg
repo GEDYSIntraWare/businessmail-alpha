@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>dagger icon</title>
+	<desc>dagger icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0" d="M3623 2954l-1978 1978c-340,341 -792,525 -1272,525l-100 0 0 -100c0,-481 183,-932 524,-1273l1978 -1978 141 141 -1978 1978c-277,278 -439,638 -462,1029 390,-24 751,-186 1028,-463l1978 -1978 141 141zm-353 -353l-1936 1936 -142 -142 1936 -1936 142 142zm-704 -1273l494 493 1272 -1273c272,-272 718,-272 990,0 272,272 272,718 0,990 -130,130 -304,203 -487,205l-927 927 638 638 -141 141c-660,-660 -1320,-1320 -1980,-1980l141 -141zm2615 -638c-194,-194 -513,-194 -707,0l-1273 1273 566 565 988 -988 44 3c143,8 281,-45 382,-146 194,-194 194,-513 0,-707z"/>
+</svg>

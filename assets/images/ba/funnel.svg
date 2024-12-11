@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>funnel icon</title>
+	<desc>funnel icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M2900 500c642,0 1225,57 1647,149 196,42 753,181 753,451l0 658c0,186 -75,351 -216,473l-1478 1371c-67,62 -106,134 -106,227l0 871c0,244 -303,554 -590,704 -78,40 -155,70 -227,85 -217,46 -383,-50 -383,-289l0 -1397c0,-91 -34,-165 -103,-224l-1480 -1348c-138,-125 -217,-286 -217,-473l0 -658c0,-270 557,-409 753,-451 422,-92 1005,-149 1647,-149zm2200 858c-130,77 -319,142 -553,193 -422,92 -1005,149 -1647,149 -642,0 -1225,-57 -1647,-149 -234,-51 -423,-116 -553,-193l0 400c0,132 54,238 151,326l1478 1345c111,96 171,227 171,374l0 1397c0,105 51,113 142,94 53,-11 113,-35 175,-67 236,-123 483,-357 483,-527l0 -871c0,-147 63,-274 170,-373l1481 -1374c99,-85 149,-194 149,-324l0 -400zm-595 -514c-409,-89 -977,-144 -1605,-144 -628,0 -1196,55 -1605,144 -368,80 -595,172 -595,256 0,84 227,176 595,256 409,89 977,144 1605,144 628,0 1196,-55 1605,-144 368,-80 595,-172 595,-256 0,-84 -227,-176 -595,-256z"/>
+</svg>

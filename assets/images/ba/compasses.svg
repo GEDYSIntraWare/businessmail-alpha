@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>compasses icon</title>
+	<desc>compasses icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M3000 908c288,49 500,299 500,592 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-293 212,-543 500,-592l0 -608 200 0 0 608zm1296 4192l-671 -1600 -625 0 0 300 -200 0 0 -300 -625 0 -673 1604 -102 396 -100 -400 0 -20 659 -1580 -459 0 0 -200 542 0 461 -1106c57,33 119,59 184,77l-429 1029 542 0 0 -300 200 0 0 300 542 0 -429 -1029c65,-18 127,-44 184,-77l461 1106 542 0 0 200 -459 0 659 1580 0 20 -100 400 -104 -400zm-1396 -4000c-221,0 -400,179 -400,400 0,221 179,400 400,400 221,0 400,-179 400,-400 0,-221 -179,-400 -400,-400z"/>
+</svg>

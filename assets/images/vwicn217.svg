@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons_BusinessMail"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1016.44 931.44">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#4d4d4d;stroke-width:36px;}</style>
+    </defs>
+    <g id="Mail">
+        <path class="cls-1" d="m932.28,729.28c0,32.7-27.12,59.2-60.58,59.2H144.78c-33.46,0-60.58-26.5-60.58-59.2V199.93c0-32.69,27.12-59.2,60.58-59.2h726.92c33.46,0,60.58,26.5,60.58,59.2v529.35Z"/>
+        <polyline class="cls-1" points="935.22 196.23 508.24 511.17 83.22 196.23"/>
+        <line class="cls-1" x1="99.91" y1="771.92" x2="396.59" y2="434.98"/>
+        <line class="cls-1" x1="621.49" y1="434.98" x2="918.17" y2="771.92"/>
+    </g>
+</svg>

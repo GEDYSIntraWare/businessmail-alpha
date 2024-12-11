@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>keyhole icon</title>
+	<desc>keyhole icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M2900 1300c442,0 800,358 800,800 0,253 -119,490 -322,641l319 1438c14,60 -35,121 -97,121l-1400 0c-68,0 -116,-67 -95,-130l317 -1429c-203,-151 -322,-388 -322,-641 0,-442 358,-800 800,-800zm-314 1312c35,22 55,64 45,106l-307 1382 1152 0 -305 -1373c-14,-43 3,-91 43,-115 178,-110 286,-303 286,-512 0,-331 -269,-600 -600,-600 -331,0 -600,269 -600,600 0,209 108,402 286,512zm2314 -2312l0 5200 -4000 0 0 -5200 4000 0zm-200 200l-3600 0 0 4800 3600 0 0 -4800z"/>
+</svg>

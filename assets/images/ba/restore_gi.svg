@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="640"
+   height="640"
+   viewBox="0 0 640 640"
+   xml:space="preserve"
+   id="svg5637"
+   sodipodi:docname="restore_gi.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview5639"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.35"
+   inkscape:cx="320.37037"
+   inkscape:cy="261.11111"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg5637" />
+<desc
+   id="desc5627">Created with Fabric.js 4.6.0</desc>
+<defs
+   id="defs5629">
+</defs>
+<g
+   transform="matrix(-0.91341189,0,0,-0.91882364,471.02033,168.98031)"
+   id="Az-iVH6VvqFtF7Enm_pdD">
+<path
+   style="opacity:1;fill:#000000;fill-rule:nonzero;stroke:#a1db90;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+   vector-effect="non-scaling-stroke"
+   transform="translate(-136.88,-136.88)"
+   d="M 273.75239,13.3732 V 0 H 111.10412 V 18.91259 H 241.46657 L 0,260.37916 13.37323,273.75238 254.83982,32.28579 v 130.36247 h 18.91259 V 13.3732 l 10e-6,-1e-5 z"
+   stroke-linecap="round"
+   id="path5631" />
+</g>
+<g
+   transform="matrix(0.91341189,0,0,0.9242354,168.98,471.02)"
+   id="b2-SuDlNF4iaNUWIKvisq">
+<path
+   style="opacity:1;fill:#000000;fill-rule:nonzero;stroke:#a1db90;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+   vector-effect="non-scaling-stroke"
+   d="m 136.87618,-123.50299 v -13.3732 H -25.77209 v 18.91259 h 130.36245 l -241.46657,241.46657 13.37323,13.37322 241.46659,-241.46659 V 25.77207 h 18.91259 v -149.27506 l 10e-6,-1e-5 z"
+   stroke-linecap="round"
+   id="path5634" />
+</g>
+</svg>

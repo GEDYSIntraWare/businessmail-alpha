@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>chess_piece_pawn icon</title>
+	<desc>chess_piece_pawn icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M2900 1400c497,0 900,403 900,900 0,139 -32,276 -94,400l194 0 0 600 -399 0c18,695 242,912 485,1147 39,37 76,74 114,112l0 141 200 0 0 800 -2800 0 0 -800 200 0 0 -141c37,-38 75,-74 113,-111 243,-236 466,-453 485,-1148l-398 0 0 -600 194 0c-62,-124 -94,-261 -94,-400 0,-497 403,-900 900,-900zm1200 3500l-2400 0 0 400 2400 0 0 -400zm-400 -1800l0 -200 -384 0c159,-198 284,-327 284,-600 0,-387 -313,-700 -700,-700 -387,0 -700,313 -700,700 0,273 125,402 284,600l-384 0 0 200c533,0 1067,0 1600,0zm-398 200l-805 0c-18,780 -271,1025 -545,1291 -15,14 -30,29 -52,51l0 58 2000 0 0 -58c-22,-22 -37,-37 -53,-52 -274,-266 -527,-511 -545,-1290z"/>
+</svg>

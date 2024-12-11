@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>barcode_scanner icon</title>
+	<desc>barcode_scanner icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30" d="M3900 500l1600 0c0,133 0,267 0,400l-1600 0c0,-133 0,-267 0,-400zm1600 3200l-1600 0 0 -400 1600 0 0 400zm-1600 800l1600 0 0 200 -1600 0 0 -200zm1600 800l-1600 0 0 -400 1600 0 0 400zm-1600 -4200l1600 0 0 200 -700 0c-84,-63 -187,-100 -300,-100 -113,0 -216,37 -300,100l-300 0 0 -200zm1058 400l542 0 0 200 -500 0c0,-71 -15,-139 -42,-200zm0 400l542 0c0,133 0,267 0,400l-1600 0c0,-100 0,-200 0,-300l200 0c14,19 30,37 46,54 91,90 216,146 354,146 138,0 263,-56 354,-146 43,-44 79,-96 104,-154zm-1058 600l1600 0 0 200 -1600 0 0 -200zm0 400l1600 0 0 200 -1600 0 0 -200zm0 1000l1600 0 0 400 -1600 0 0 -400z"/>
+	<path id="curve29" d="M4500 1400c165,0 300,135 300,300 0,166 -134,300 -300,300 -128,0 -241,-81 -283,-200l-1457 0 40 -200 1417 0c42,-120 156,-200 283,-200z"/>
+	<path id="curve28" d="M1999 2548l-297 1687c-40,212 -240,356 -454,318l-409 -72c-212,-37 -356,-242 -319,-455l288 -1633c9,-51 -21,-101 -72,-115 -260,-71 -441,-308 -441,-578 0,-331 269,-600 600,-600l1905 0c68,0 104,56 98,120l-200 1000c-9,47 -51,80 -98,80l-305 0c-148,0 -270,103 -296,248zm-196 -35c42,-240 248,-413 492,-413l223 0 160 -800 -1783 0c-221,0 -400,179 -400,400 0,180 120,339 294,386 149,41 243,188 216,341l-288 1634c-18,105 51,205 156,223l409 72c105,19 205,-51 223,-156l298 -1687z"/>
+</svg>

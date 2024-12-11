@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>missile icon</title>
+	<desc>missile icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M1400 3500c-179,0 -401,-78 -596,-175 -276,-138 -504,-336 -504,-425 0,-89 228,-287 504,-425 195,-97 417,-175 596,-175l1170 0 822 -545c53,-35 110,-55 173,-55l535 0 0 600 458 0 501 -500 441 0 0 2200 -441 0 -500 -500 -459 0 0 600 -535 0c-63,0 -120,-20 -173,-55l-822 -545 -1170 0zm1531 -1200l969 0 0 -400 -335 0c-25,0 -42,8 -63,21l-571 379zm969 1200l-969 0 571 379c21,13 38,21 63,21l335 0 0 -400zm-2000 -1000l0 800 2741 0 500 500 159 0 0 -1800 -159 0 -499 500 -2742 0zm-200 800l0 -800 -200 0 0 800 200 0zm-400 -9l0 -782c-127,21 -273,77 -407,144 -215,108 -393,221 -393,247 0,26 178,139 393,247 134,67 280,123 407,144z"/>
+</svg>

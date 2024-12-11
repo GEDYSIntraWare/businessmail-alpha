@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>spade icon</title>
+	<desc>spade icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0" d="M4871 346l583 583c93,92 93,243 0,335l-308 309c-72,72 -163,110 -265,110l-623 0 -2564 2564 -141 -141 2564 -2564 0 -623c0,-101 38,-193 110,-265l308 -308c93,-93 244,-93 336,0zm-2749 4746c-434,434 -1096,548 -1650,283l-32 -15 -15 -32c-265,-554 -151,-1216 283,-1650l636 -637 495 495 -141 142 -354 -354 -495 495c-365,366 -468,918 -259,1391 473,209 1025,106 1391,-259l495 -495 -354 -354 142 -141 495 495 -637 636zm3191 -4022l-583 -583c-15,-15 -39,-15 -53,0l-309 308c-35,36 -51,74 -51,124l0 564 564 0c49,0 89,-16 124,-51l308 -308c15,-15 15,-39 0,-54z"/>
+</svg>

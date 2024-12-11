@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>smartcard icon</title>
+	<desc>smartcard icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M900 2400l1000 0 0 200 -300 0 0 200 300 0 0 200 -300 0 0 200 300 0 0 200 -1000 0 0 -200 300 0 0 -200 -300 0 0 -200 300 0 0 -200 -300 0 0 -200zm-400 1500l4800 0 0 -2000 -4800 0 0 2000zm4800 200l-4800 0 0 300c0,165 135,300 300,300l4200 0c165,0 300,-135 300,-300l0 -300zm-4800 -2400l4800 0 0 -300c0,-165 -135,-300 -300,-300l-4200 0c-165,0 -300,135 -300,300l0 300zm300 -800l4200 0c276,0 500,225 500,500l0 3000c0,275 -225,500 -500,500l-4200 0c-275,0 -500,-225 -500,-500l0 -3000c0,-276 224,-500 500,-500z"/>
+</svg>

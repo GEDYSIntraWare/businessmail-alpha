@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>axe icon</title>
+	<desc>axe icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28" d="M3771 729l700 700c183,184 684,171 929,171 55,0 100,45 100,100 0,328 -263,754 -604,1096 -342,341 -768,604 -1096,604 -55,0 -100,-45 -100,-100 0,-335 0,-759 -171,-929l-700 -700c-39,-39 -39,-103 0,-142l800 -800c39,-39 103,-39 142,0zm558 842l-629 -630 -659 659 630 629c207,208 227,611 229,961 259,-47 582,-263 854,-536 273,-272 489,-595 536,-854 -350,-2 -753,-22 -961,-229zm-1358 600l-1600 1600c-8,8 -17,14 -27,19l-773 464c-14,8 -25,19 -33,31 -26,39 -19,93 13,125l249 249 2329 -2330 142 142 -2400 2400c-39,39 -103,39 -142,0l-318 -319c-34,-34 -58,-73 -73,-115 -29,-86 -17,-185 33,-261 24,-38 57,-69 97,-93l769 -462 1592 -1592 142 142z"/>
+</svg>

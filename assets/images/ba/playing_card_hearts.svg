@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>playing_card_hearts icon</title>
+	<desc>playing_card_hearts icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29" d="M1300 300l3200 0c220,0 400,180 400,400l0 4400c0,220 -180,400 -400,400l-3200 0c-220,0 -400,-180 -400,-400l0 -4400c0,-220 180,-400 400,-400zm3200 200l-3200 0c-110,0 -200,90 -200,200l0 4400c0,110 90,200 200,200l3200 0c110,0 200,-90 200,-200l0 -4400c0,-110 -90,-200 -200,-200z"/>
+	<path id="curve28" d="M4100 2474c0,169 -31,296 -80,405 -49,107 -113,193 -185,283 -125,159 -279,285 -436,412 -150,121 -301,244 -420,396l-79 100 -79 -100c-119,-152 -270,-275 -420,-396 -157,-127 -311,-253 -436,-412 -72,-90 -136,-176 -185,-283 -49,-109 -80,-236 -80,-405 0,-379 320,-682 696,-682 191,0 373,78 504,216 131,-138 313,-216 504,-216 376,0 696,303 696,682zm-262 323c38,-85 62,-185 62,-323 0,-268 -230,-482 -496,-482 -171,0 -328,87 -420,231l-84 134 -84 -134c-92,-144 -249,-231 -420,-231 -266,0 -496,214 -496,482 0,138 24,238 62,323 39,86 96,161 160,242 112,142 257,261 404,380 129,104 259,210 374,335 115,-125 245,-231 374,-335 147,-119 292,-238 404,-380 64,-81 121,-156 160,-242z"/>
+</svg>

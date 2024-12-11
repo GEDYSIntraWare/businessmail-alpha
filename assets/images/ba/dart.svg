@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>dart icon</title>
+	<desc>dart icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0" d="M1233 4753l-933 747 745 -931c-246,-365 -16,-778 252,-1054 93,-96 207,-195 344,-295l1556 -1142 -70 -628c-20,-186 40,-359 172,-491l421 -420c155,-155 367,-212 578,-156 212,56 367,211 425,422l58 214 214 58c211,58 366,213 422,425 56,211 -1,423 -156,578l-420 421c-132,132 -305,192 -491,172l-628 -70 -1142 1556c-82,112 -163,209 -243,291 -280,288 -714,553 -1104,303zm2150 -2811l1203 -882 -55 -203c-39,-142 -141,-243 -284,-281 -143,-38 -281,-1 -386,104l-420 421c-90,90 -129,200 -115,327l57 514zm1357 -728l-882 1203 514 57c127,14 237,-25 327,-115l421 -420c104,-105 142,-244 104,-386 -38,-143 -139,-245 -281,-284l-203 -55zm-504 350l-2357 1728c238,181 448,391 629,629l1728 -2357zm-2525 1852c-107,82 -197,161 -271,238 -198,204 -422,542 -220,818 27,37 60,70 98,97 299,220 664,-40 876,-258 62,-64 125,-138 190,-222 -187,-256 -417,-486 -673,-673z"/>
+</svg>
