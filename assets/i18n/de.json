@@ -224,5 +224,6 @@
   "NewContactCreatedAndConnected": "Es wurde ein neuer Kontakt erstellt und zu der gewählten Firma hinzugefügt.",
   "refreshLogin": "Bitte Login erneut ausführen.",
   "loaded": "Geladen: ",
-  "noFooterInfoAvailableManualDataNeeded": "Keine Adressdaten aus E-Mail Footer erhalten. Bitte Daten manuell eingeben."
+  "noFooterInfoAvailableManualDataNeeded": "Keine Adressdaten aus E-Mail Footer erhalten. Bitte Daten manuell eingeben.",
+  "dismissMessage": "OK"
 }
