@@ -20,7 +20,7 @@
   "list": "Liste",
   "selected": "Ausgewählt",
   "noProjectSelected": "Kein Projekt ausgewählt.",
-  "noUserAssignedTicket": "Für das Ticket wurde noch kein Bearbeiter festgelegt. E-Mail wird nicht dokumentiert. Erstelle neues Ticket aus E-Mail...",
+  "noUserAssignedTicket": "Für das Ticket wurde noch kein Bearbeiter festgelegt oder Ticket wurde gesperrt. E-Mail wird nicht dokumentiert.",
   "selectProject": "Bitte wählen Sie ein Projekt.",
   "LC53516": "Wählen Sie eine Datenbank aus",
   "LC53493": "Bitte einen Eintrag auswählen",
@@ -226,5 +226,6 @@
   "loaded": "Geladen: ",
   "noFooterInfoAvailableManualDataNeeded": "Keine Adressdaten aus E-Mail Footer erhalten. Bitte Daten manuell eingeben.",
   "dismissMessage": "OK",
-  "notConnected": "getrennt"
+  "notConnected": "getrennt",
+  "grapherror": "Keine Verbindung zu Microsoft Graph."
 }
