@@ -7,7 +7,7 @@
   <Version>4.0.0.0</Version>
   <ProviderName>GEDYS IntraWare</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
-  <DisplayName DefaultValue="Business Mail Alpha"/>
+  <DisplayName DefaultValue="Business Mail"/>
   <Description DefaultValue="Business Mail for Outlook Web App by GEDYS IntraWare GmbH."/>
   <IconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_64.png"/>
   <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_128.png"/>
