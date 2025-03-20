@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>marionette icon</title>
+	<desc>marionette icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve33"  d="M3295 4369c0,-27 11,-51 28,-69l-323 0 0 0c0,31 -15,61 -42,81l-458 330 0 489c0,55 -45,100 -100,100 -55,0 -100,-45 -100,-100l0 -540c0,-31 15,-61 42,-81l475 -342c-10,-8 -20,-16 -29,-25l0 0c-54,-55 -88,-130 -88,-212l0 -516 -222 278c-16,19 -37,32 -62,36l-600 100c-54,9 -105,-27 -114,-82 -9,-54 27,-105 82,-114l562 -94 376 -470c7,-8 14,-15 22,-20 19,-37 44,-71 73,-101 73,-72 173,-117 283,-117l100 0c-220,0 -400,-180 -400,-400 0,-221 179,-400 400,-400 220,0 400,180 400,400 0,221 -179,400 -400,400l100 0c110,0 210,45 283,117 17,18 33,37 47,57l486 -243 188 -658c15,-53 70,-84 123,-69 53,15 84,70 69,123l-200 700c-8,26 -25,49 -51,62l-547 273c1,13 2,25 2,38l0 700c0,82 -34,157 -88,212l0 0c-41,41 -93,70 -151,82 21,18 34,45 34,75l0 1100c0,55 -44,100 -100,100 -55,0 -100,-45 -100,-100l0 -1100z"/>
+	<path id="curve32"  d="M2500,900 2500,4300 2300,4300 2300,900z"/>
+	<path id="curve31"  d="M4501,1000 4500,1900 4300,1900 4302,1000z"/>
+	<path id="curve30"  d="M3300,1300 3300,1900 3100,1900 3100,1300z"/>
+	<path id="curve29"  d="M1900,1700 1900,3500 1700,3500 1700,1700z"/>
+	<path id="curve28"  d="M3247,793 4753,393 4907,972 3979,1219 4227,1363 3926,1881 3161,1436 1332,1922 1178,1343 2428,1010 1864,682 2165,164z"/>
+</svg>

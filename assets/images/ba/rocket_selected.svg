@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>rocket icon</title>
+	<desc>rocket icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30"  d="M2151 4800l-51 0 0 0c-168,5 -312,85 -417,205 -115,132 -183,312 -183,495l0 0 -100 0 -100 0 0 0c0,-9 0,-18 0,-27l0 -1373 0 0c0,-166 67,-316 176,-424 73,-74 166,-128 270,-156 18,97 41,189 70,274l335 1006zm1903 -1280c104,28 197,82 270,156 109,108 176,258 176,424l0 0 0 1373c0,9 0,18 0,27l0 0 -100 0 -100 0 0 0c0,-183 -68,-363 -183,-495 -105,-120 -249,-200 -417,-205l0 0 -51 0 335 -1006c29,-85 52,-177 70,-274z"/>
+	<path id="curve29"  d="M3614 1100l-1428 0c185,-418 411,-735 714,-1072 303,337 529,654 714,1072zm81 200c150,405 233,843 233,1300 0,336 -27,813 -133,1131l-523 1569c-248,0 -496,0 -744,0l-523 -1569c-106,-319 -133,-794 -133,-1131 0,-457 83,-895 233,-1300l1590 0zm-795 400c-331,0 -600,269 -600,600 0,331 269,600 600,600 331,0 600,-269 600,-600 0,-331 -269,-600 -600,-600zm400 600c0,221 -179,400 -400,400 -221,0 -400,-179 -400,-400 0,-221 179,-400 400,-400 221,0 400,179 400,400z"/>
+</svg>

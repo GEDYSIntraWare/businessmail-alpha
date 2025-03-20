@@ -1,63 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xml:space="preserve"
-   width="580px"
-   height="580px"
-   shape-rendering="geometricPrecision"
-   text-rendering="geometricPrecision"
-   image-rendering="optimizeQuality"
-   fill-rule="nonzero"
-   clip-rule="nonzero"
-   viewBox="0 0 5800 5800"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="gi_magic_pencil.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
-   id="defs12" /><sodipodi:namedview
-   id="namedview10"
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1.0"
-   inkscape:pageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   showgrid="false"
-   inkscape:zoom="1.3931034"
-   inkscape:cx="289.64109"
-   inkscape:cy="175.50743"
-   inkscape:window-width="1920"
-   inkscape:window-height="1001"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="svg8" />
-	<title
-   id="title2">magic_wand icon</title>
-	<desc
-   id="desc4">magic_wand icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
-		<path
-   id="curve29"
-   
-   d="m 1692.7426,1057.9307 867,-2 -703,509 270,824 -701,-511 -701.00003,511 270,-824 -703,-509 867.00003,2 267,-826.00001 z m -267,-176.00001 -121,376.00001 -396.00003,-1 321.00003,232 -123,376 319,-233 319,233 -123,-376 321,-232 -396,1 z" />
-	<path
-   id="curve28"
-   
-   d="m 1338,5419 c -84,83 -232,30 -375,-83 C 872,5264 786,5178 714,5087 601,4943 547,4795 631,4712 L 4662,681 c 84,-84 231,-30 376,83 88,70 178,160 248,249 113,144 167,291 83,375 -343,343 -4030,4031 -4031,4031 z m 507,-790 c -149,-84 -340,-275 -424,-424 l -648,648 c -24,24 424,424 424,424 z M 4155,1471 c 147,83 341,277 424,424 l 648,-648 c 11,-11 -413,-435 -424,-424 z M 1975,4500 3847.0297,2642.3267 C 3847.0297,2641.3267 4274,1825 4249,1801 4225,1776 4026,1600 4025,1600 L 1550,4075 c -2,2 201,219 201,225 25,25 223,200 224,200 z"
-   sodipodi:nodetypes="ccccsccscccsccccsscccccscc"
-   style="display:none" />
-<g
-   style="clip-rule:nonzero;fill-rule:nonzero;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   id="g413"
-   transform="translate(-1184.233,229.53)"><path
-     id="curve28-1"
-     
-     d="m 6012.3268,464.50495 565,565.00005 c 156,156 156,410 0,566 l -3143,3144 -800,290 -147,54 -429,156 c -73,27 -154,9 -209,-47 -56,-55 -74,-135 -47,-209 l 156,-429 54,-147 290,-800 3144,-3143.00005 c 155,-156 411,-156 566,0 z m -3845,4099.00005 311,311 719,-261 -769,-769 z m 3090,-2207 -1744,1744 -142,-142 1744,-1744 z m -306,-1115 849,849 636,-637 c 78,-78 78,-204 0,-282 l -566,-566.00005 c -77,-77 -205,-77 -282,0 z m 707,990 -848,-848 -2280,2280 848,848 z" /></g><metadata
-   id="metadata723"><rdf:RDF><cc:Work
-       rdf:about=""><dc:title>magic_wand icon</dc:title></cc:Work></rdf:RDF></metadata></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 580 580" version="1.1" viewBox="0 0 580 580" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<g id="gi_x5F_magic_x5F_pencil">
+	<path id="curve29_00000065797220689681491420000017907031959454645926_" d="m169.3 105.8 86.7-0.2-70.3 50.9 27 82.4-70.1-51.1-70.1 51.1 27-82.4-70.3-50.9 86.7 0.2 26.7-82.6 26.7 82.6zm-26.7-17.6-12.1 37.6-39.6-0.1 32.1 23.2-12.3 37.6 31.9-23.3 31.9 23.3-12.3-37.6 32.1-23.2-39.6 0.1-12.1-37.6z"/>
+	<g transform="translate(-1184.2 229.53)">
+		<path d="m1667-160.1 56.5 56.5c15.6 15.6 15.6 41 0 56.6l-314.3 314.4-80 29-14.7 5.4-42.9 15.6c-7.3 2.7-15.4 0.9-20.9-4.7-5.6-5.5-7.4-13.5-4.7-20.9l15.6-42.9 5.4-14.7 29-80 314.4-314.3c15.5-15.6 41.1-15.6 56.6 0zm-384.5 409.9 31.1 31.1 71.9-26.1-76.9-76.9-26.1 71.9zm309-220.7-174.4 174.4-14.2-14.2 174.4-174.4 14.2 14.2zm-30.6-111.5 84.9 84.9 63.6-63.7c7.8-7.8 7.8-20.4 0-28.2l-56.6-56.6c-7.7-7.7-20.5-7.7-28.2 0l-63.7 63.6zm70.7 99-84.8-84.8-228 228 84.8 84.8 228-228z"/>
+	</g>
+</g>
+</svg>

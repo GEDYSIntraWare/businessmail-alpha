@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>disinfection icon</title>
+	<desc>disinfection icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M2700 1300l0 -200 -1300 0c-55,0 -100,45 -100,100l0 300 -200 0 0 -300c0,-165 135,-300 300,-300l1300 0 0 -100c0,-165 135,-300 300,-300l400 0c165,0 300,135 300,300l0 500 200 0 0 400 -1400 0 0 -400 200 0zm1400 600c220,0 400,180 400,400l0 2800c0,220 -180,400 -400,400l-2200 0c-220,0 -400,-180 -400,-400l0 -2234c0,-136 51,-258 146,-354l466 -466c48,-47 102,-84 162,-109 59,-24 122,-37 189,-37l1637 0z"/>
+</svg>

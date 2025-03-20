@@ -3,6 +3,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>playing_card_diamonds icon</title>
 	<desc>playing_card_diamonds icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
-		<path id="curve29" d="M1300 300l3200 0c220,0 400,180 400,400l0 4400c0,220 -180,400 -400,400l-3200 0c-220,0 -400,-180 -400,-400l0 -4400c0,-220 180,-400 400,-400zm3200 200l-3200 0c-110,0 -200,90 -200,200l0 4400c0,110 90,200 200,200l3200 0c110,0 200,-90 200,-200l0 -4400c0,-110 -90,-200 -200,-200z"/>
-	<path id="curve28" d="M2900 1425l1021 1475 -1021 1475 -1021 -1475 1021 -1475zm0 350l-779 1125 779 1125 779 -1125 -779 -1125z"/>
+		<path id="curve29"  d="M1300 300l3200 0c220,0 400,180 400,400l0 4400c0,220 -180,400 -400,400l-3200 0c-220,0 -400,-180 -400,-400l0 -4400c0,-220 180,-400 400,-400zm3200 200l-3200 0c-110,0 -200,90 -200,200l0 4400c0,110 90,200 200,200l3200 0c110,0 200,-90 200,-200l0 -4400c0,-110 -90,-200 -200,-200z"/>
+	<path id="curve28"  d="M2900 1425l1021 1475 -1021 1475 -1021 -1475 1021 -1475zm0 350l-779 1125 779 1125 779 -1125 -779 -1125z"/>
 </svg>

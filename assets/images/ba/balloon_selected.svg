@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>balloon icon</title>
+	<desc>balloon icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M3230 5671c-152,-150 -281,-335 -333,-544 -52,-204 -26,-402 69,-589 48,-96 103,-211 141,-338 65,0 112,1 173,-28 17,-8 34,-18 48,-29 -40,187 -118,354 -184,485 -73,144 -93,294 -54,450 44,174 155,327 280,451l-140 142zm-330 -5571c901,0 1600,698 1600,1600 0,807 -507,1495 -1300,1681l-600 0c-793,-186 -1300,-874 -1300,-1681 0,-902 699,-1600 1600,-1600zm-451 3821c-4,-32 1,-64 13,-95l131 -326 614 0 131 326c12,31 17,63 13,95 -11,102 -96,179 -199,179l-504 0c-102,0 -188,-78 -199,-179zm1551 -2221l-200 0c0,493 -299,909 -791,1007 -36,4 -74,9 -109,9l0 199c44,0 99,-3 142,-11 589,-115 958,-614 958,-1204z"/>
+</svg>

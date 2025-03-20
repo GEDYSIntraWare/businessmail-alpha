@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="calendar_x5F_gi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" width="580px" height="580px" viewBox="0 0 580 580" style="enable-background:new 0 0 580 580;" xml:space="preserve">
-<title>address_book2 icon</title>
-<desc>address_book2 icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
-<title>address_book2 icon</title>
-<desc>address_book2 icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
-<title>address_book2 icon</title>
-<desc>address_book2 icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 580 580" style="enable-background:new 0 0 580 580;" xml:space="preserve">
+<style type="text/css">
+	
+</style>
 <g>
-	<rect x="263" y="333" width="54" height="54"/>
-	<rect x="263" y="420" width="54" height="54"/>
-	<rect x="263" y="246" width="54" height="53"/>
-	<rect x="187" y="246" width="54" height="53"/>
-	<rect x="339" y="333" width="129" height="141"/>
-	<rect x="339" y="246" width="54" height="53"/>
-	<rect x="415" y="246" width="53" height="53"/>
-	<rect x="187" y="333" width="54" height="54"/>
-	<rect x="111" y="333" width="54" height="54"/>
-	<rect x="111" y="420" width="54" height="54"/>
-	<rect x="111" y="246" width="54" height="53"/>
-	<rect x="187" y="420" width="54" height="54"/>
-	<path d="M70,50v480h440V50H70z M490,510H90V210h400V510z M490,190H90V70h400V190z"/>
-	<polygon points="410,80.2 410,180.2 470,130.2 	"/>
-	<polygon points="170,80.2 110,130.2 170,180.2 	"/>
+	<path class="st0" d="M480,65h-30V45c0-5.5-4.5-10-10-10s-10,4.5-10,10v20H150V45c0-5.5-4.5-10-10-10s-10,4.5-10,10v20h-30
+		c-16.5,0-30,13.5-30,30c0,150,0,300,0,450h440c0-150,0-300,0-450C510,78.5,496.5,65,480,65z M490,525H90V183h400V525z M490,163H90
+		V95c0-5.5,4.5-10,10-10h30v12.7c-6.2,3.6-10,10.1-10,17.3c0,11,9,20,20,20s20-9,20-20c0-7.2-3.8-13.8-10-17.3V85h280v12.7
+		c-6.2,3.5-10,10.1-10,17.3c0,11,9,20,20,20s20-9,20-20c0-7.2-3.8-13.8-10-17.3V85h30c5.5,0,10,4.5,10,10V163z"/>
+	<path class="st0" d="M410,425H290c0-31.8,27.3-39.8,54.2-47.7c33.2-9.7,65.8-19.2,65.8-62.3c0-27.5-22.5-50-50-50h-40
+		c-27.5,0-50,22.5-50,50h20c0-16.5,13.5-30,30-30h40c16.5,0,30,13.5,30,30c0,28.1-25.4,35.6-51.3,43.2c-34,9.9-68.7,20.1-68.7,66.8
+		v20h140V425z"/>
+	<polygon class="st0" points="190,445 210,445 210,265 170,265 170,285 190,285 	"/>
 </g>
 </svg>

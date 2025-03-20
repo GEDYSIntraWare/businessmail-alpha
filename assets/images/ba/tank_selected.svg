@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>tank icon</title>
+	<desc>tank icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M4600 3900c249,0 450,202 450,450 0,200 -132,376 -323,432l-846 284c-56,22 -117,34 -181,34l-2000 0c-54,0 -124,-14 -175,-33l-852 -285c-191,-56 -323,-232 -323,-432 0,-248 202,-450 450,-450 1267,0 2533,0 3800,0zm-2994 -1100l94 0 0 -200c0,-275 225,-500 500,-500l800 0c194,0 370,113 453,288l2028 -400 38 196 -2019 398c2,72 0,146 0,218l94 0c166,0 311,75 407,210l350 490 372 0 422 211 -90 178 -378 -189 -3954 0 -378 189 -90 -178 422 -211 172 0 350 -490c96,-135 241,-210 407,-210zm2719 1906c-53,-41 -97,-94 -127,-154 6,69 -1,139 -23,205l150 -51zm-3099 51c-22,-66 -30,-137 -23,-206 -30,60 -74,114 -128,155l151 51zm3000 -657l-2492 0c256,17 459,226 466,483 9,-269 230,-483 500,-483 276,0 500,224 500,500 0,113 -37,216 -100,300l200 0c-63,-84 -100,-187 -100,-300 0,-276 224,-500 500,-500 193,0 368,111 451,285 -7,-101 19,-201 75,-285zm-2977 284c77,-163 237,-272 418,-284l-493 0c48,71 76,157 76,250 0,11 0,23 -1,34zm951 231c-3,107 -40,205 -101,285l201 0c-60,-80 -97,-178 -100,-285z"/>
+</svg>

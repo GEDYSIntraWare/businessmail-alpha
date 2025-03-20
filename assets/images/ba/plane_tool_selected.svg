@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>plane_tool icon</title>
+	<desc>plane_tool icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M500 4100l0 -900c0,-276 224,-500 500,-500l2400 0c275,0 500,225 500,500l0 900 200 0 0 -900c0,-125 -33,-247 -95,-353 167,-249 48,-516 -43,-771 -58,-165 -113,-321 -144,-496 -30,-165 -34,-314 -34,-480l780 0c0,430 113,554 425,834 295,264 614,551 614,1228 0,337 -106,665 -304,938l201 0 0 1000 -5200 0 0 -1000 200 0zm1600 -1000c-221,0 -400,179 -400,400 0,220 180,400 400,400 221,0 400,-179 400,-400 0,-220 -180,-400 -400,-400zm-1138 -599l-400 -401 80 -86c47,-51 101,-89 160,-114 188,-78 408,-34 551,109l491 491 -844 0c-13,0 -25,0 -38,1zm-643 -374l423 422c-64,26 -124,61 -179,104l-385 -385 141 -141z"/>
+</svg>

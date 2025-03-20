@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>playing_card_spades icon</title>
+	<desc>playing_card_spades icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M1300 300l3200 0c220,0 400,180 400,400l0 4400c0,220 -180,400 -400,400l-3200 0c-220,0 -400,-180 -400,-400l0 -4400c0,-220 180,-400 400,-400zm500 2930c0,316 267,582 596,582 156,0 298,-59 404,-158l0 446 -700 0 0 200 1600 0 0 -200 -700 0 0 -446c106,99 248,158 404,158 329,0 596,-266 596,-582 0,-306 -109,-455 -243,-626 -240,-305 -608,-492 -857,-808 -249,316 -617,503 -857,808 -134,171 -243,320 -243,626z"/>
+</svg>

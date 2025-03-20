@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>pin2 icon</title>
+	<desc>pin2 icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve32"  d="M2661,3726 429,5371 2074,3139z"/>
+	<path id="curve31"  d="M4032 3174c105,200 139,434 112,653 -39,312 -171,501 -385,714l-2500 -2500c213,-214 402,-346 714,-385 219,-27 453,7 653,112l1406 1406zm-1237 -1520l727 -492 1116 1116 -492 727 -1351 -1351zm896 -606c-30,-105 -34,-214 -13,-318 25,-131 89,-254 187,-352 104,-103 274,-103 378,0l1179 1179c103,104 103,274 0,378 -98,98 -221,162 -352,187 -104,21 -213,17 -318,-13l-1061 -1061z"/>
+</svg>

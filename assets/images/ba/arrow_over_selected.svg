@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>arrow_over icon</title>
+	<desc>arrow_over icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M2934 2701c206,18 366,192 366,399 0,220 -180,400 -400,400l-2214 0 0 -799 2248 0zm1098 0l1068 0 0 799 -1069 0c45,-126 69,-261 69,-400 0,-139 -24,-273 -68,-399z"/>
+	<path id="curve28"  d="M2701 5100l0 -1400 199 0c331,0 600,-269 600,-600 0,-331 -269,-600 -600,-600l-200 0 0 -1417 -659 658 -282 -282 1141 -1142 1141 1142 -282 282 -659 -658 0 1037c465,94 800,505 800,980 0,476 -336,886 -801,980l0 1020 -398 0z"/>
+</svg>

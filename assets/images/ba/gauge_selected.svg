@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>gauge icon</title>
+	<desc>gauge icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M2900 300c1436,0 2600,1164 2600,2600 0,1436 -1164,2600 -2600,2600 -1436,0 -2600,-1164 -2600,-2600 0,-1436 1164,-2600 2600,-2600zm-373 2462c-52,57 -89,122 -110,192 -43,141 -17,306 66,427 84,122 234,209 382,221 72,5 146,-6 218,-34 146,-56 249,-166 296,-314l706 -2206 -1558 1714zm-1044 1327l153 -128c-250,-298 -386,-672 -386,-1061 0,-911 739,-1650 1650,-1650 220,0 430,43 621,121l143 -157c-233,-105 -492,-164 -764,-164 -1022,0 -1850,828 -1850,1850 0,434 154,856 433,1189zm2657 -2562l-67 212c295,298 477,708 477,1161 0,389 -136,763 -386,1061l153 128c279,-333 433,-755 433,-1189 0,-525 -221,-1021 -610,-1373z"/>
+</svg>

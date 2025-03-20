@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>radar icon</title>
+	<desc>radar icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M2900 300c1436,0 2600,1164 2600,2600 0,1436 -1164,2600 -2600,2600 -1436,0 -2600,-1164 -2600,-2600 0,-1436 1164,-2600 2600,-2600zm0 2400c-110,0 -200,90 -200,200 0,110 90,200 200,200 18,0 35,-2 52,-7l1433 1433 141 -141 -1433 -1433c5,-17 7,-34 7,-52 0,-110 -90,-200 -200,-200zm0 -1800l0 200c994,0 1800,806 1800,1800 0,376 -115,738 -333,1043l143 143c254,-344 390,-758 390,-1186 0,-1105 -895,-2000 -2000,-2000zm0 600l0 200c663,0 1200,537 1200,1200 0,215 -56,425 -166,610l145 145c144,-226 221,-487 221,-755 0,-773 -627,-1400 -1400,-1400zm0 600l0 200c331,0 600,269 600,600 0,54 -7,106 -20,156l156 156c42,-100 64,-204 64,-312 0,-442 -358,-800 -800,-800z"/>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>hand_card icon</title>
+	<desc>hand_card icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30"  d="M5500 5100l-300 0c-275,0 -500,-225 -500,-500l0 -1600c0,-275 225,-500 500,-500l300 0c0,541 0,2382 0,2600z"/>
+	<path id="curve29"  d="M4500 4700l-316 0c-145,0 -267,37 -388,118l-197 131c-154,102 -314,151 -499,151l-510 0c-278,0 -505,-187 -581,-451l-213 -749 804 0c275,0 500,-225 500,-500l0 -300 -500 0c-186,0 -363,-74 -495,-205 -131,-132 -205,-309 -205,-495 0,-164 136,-300 300,-300l748 0c192,0 373,42 523,168l690 584c48,40 105,48 165,48l174 0 0 1800z"/>
+	<path id="curve28"  d="M600 300l2000 0c165,0 300,135 300,300l0 1300 -700 0c-274,0 -500,226 -500,500 0,248 101,473 264,636 163,163 388,264 636,264l300 0 0 100c0,165 -135,300 -300,300l-2000 0c-165,0 -300,-135 -300,-300l0 -2800c0,-165 135,-300 300,-300z"/>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>auction_hammer icon</title>
+	<desc>auction_hammer icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M3300 5100l0 -300c0,-276 224,-500 500,-500l1200 0c276,0 500,224 500,500l0 300c-171,0 -2029,0 -2200,0zm-162 -2297l-67 68c-158,157 -346,245 -500,400 -151,150 -248,347 -400,500l-1259 1258c-114,114 -300,117 -417,6 -45,-36 -84,-82 -124,-123 -117,-117 -117,-307 0,-424l1258 -1259c153,-152 350,-249 500,-400 155,-154 243,-342 400,-500l68 -67c16,23 35,46 56,66l419 419c20,21 43,39 66,56zm314 -2505l44 45c85,84 118,202 88,319 -26,97 67,190 164,164 117,-30 235,3 319,88l210 209 209 210c85,84 118,202 88,319 -26,98 68,189 164,164 117,-30 234,3 319,88l45 44c127,128 131,340 3,468l-808 809c-129,128 -341,124 -468,-4l-44 -44c-85,-85 -118,-203 -88,-319 25,-97 -67,-190 -165,-165 -116,30 -234,-3 -319,-88l-418 -418c-85,-85 -118,-203 -88,-319 25,-98 -67,-190 -165,-165 -116,30 -234,-3 -319,-88 -16,-15 -36,-33 -50,-50 -122,-128 -124,-336 2,-462l809 -808c128,-128 340,-124 468,3z"/>
+</svg>

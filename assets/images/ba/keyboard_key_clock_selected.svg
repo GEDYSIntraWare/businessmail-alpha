@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>keyboard_key_clock icon</title>
+	<desc>keyboard_key_clock icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M1300 300l2800 0c551,0 1000,449 1000,1000l0 1258c-173,-154 -376,-276 -600,-355l0 -903c0,-331 -269,-600 -600,-600l-2400 0c-331,0 -600,269 -600,600l0 2400c0,331 269,600 600,600l645 0c68,303 213,576 413,800l-1258 0c-551,0 -1000,-449 -1000,-1000l0 -2800c0,-551 449,-1000 1000,-1000zm2600 600l-2400 0c-220,0 -400,180 -400,400l0 2400c0,220 180,400 400,400l611 0c-7,-66 -11,-132 -11,-200 0,-461 173,-882 458,-1200l-58 0 0 -100c0,-68 -6,-134 -21,-200l-758 0c-15,66 -21,132 -21,200l0 100 -200 0 0 -100c0,-138 20,-260 71,-388l336 -849c16,-39 53,-63 93,-63l200 0c44,0 81,28 94,67l338 853c43,109 64,223 67,339 319,-285 740,-459 1201,-459 137,0 271,15 400,45l0 -845c0,-220 -180,-400 -400,-400zm-2109 1300l618 0 -277 -700 -64 0 -277 700z"/>
+	<path id="curve28"  d="M3900 2300c884,0 1600,716 1600,1600 0,884 -716,1600 -1600,1600 -884,0 -1600,-716 -1600,-1600 0,-884 716,-1600 1600,-1600zm54 1407c-33,-9 -69,-9 -103,-1l-695 -695 -142 142 694 693c-5,17 -8,35 -8,54 0,110 90,200 200,200 110,0 200,-90 200,-200 0,-17 -2,-33 -6,-49l426 -426 -142 -141 -424 423z"/>
+</svg>

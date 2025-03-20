@@ -212,8 +212,8 @@
   "SelectDatabase": "Wähle Datenbank",
   "contacts": "Kontakt-Datenbanken",
   "projects": "Projekt-Datenbanken",
-  "addLinkToMail": "Hyperlink(s) in Inhalt einfügen",
-  "addLinkTextToMail": "Hyperlink in Inhalt einfügen",
+  "addLinkToMail": "Hyperlink(s) einfügen",
+  "addLinkTextToMail": "Hyperlink einfügen",
   "removeFromList": "Aus Liste entfernen",
   "activateLinkOption": "Hyperlinks in Inhalt hinzufügen",
   "documentButtonTooltipOff": "Bitte Dokumentierziel wählen",
@@ -227,5 +227,6 @@
   "noFooterInfoAvailableManualDataNeeded": "Keine Adressdaten aus E-Mail Footer erhalten. Bitte Daten manuell eingeben.",
   "dismissMessage": "OK",
   "notConnected": "getrennt",
-  "grapherror": "Keine Verbindung zu Microsoft Graph."
+  "grapherror": "Keine Verbindung zu Microsoft Graph.",
+  "deleteOnSend": "E-Mail nach Dokumentieren löschen"
 }

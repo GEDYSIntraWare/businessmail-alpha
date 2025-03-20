@@ -212,8 +212,8 @@
   "SelectDatabase": "Select Database",
   "contacts": "Contact-Databases",
   "projects": "Project-Databases",
-  "addLinkToMail": "Add hyperlink(s) into body",
-  "addLinkTextToMail": "Add hyperlink into body",
+  "addLinkToMail": "Add hyperlink(s)",
+  "addLinkTextToMail": "Add hyperlink",
   "removeFromList": "Remove from list",
   "activateLinkOption": "Add hyperlinks into body",
   "documentButtonTooltipOff": "Please select destination document",
@@ -227,5 +227,6 @@
   "noFooterInfoAvailableManualDataNeeded": "No address data received from mail footer, please insert data manually.",
   "dismissMessage": "OK",
   "notConnected": "disconnected",
-  "grapherror": "Microsoft Graph not connected."
+  "grapherror": "Microsoft Graph not connected.",
+  "deleteOnSend": "Delete e-mail after documenting"
 }

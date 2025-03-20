@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>index icon</title>
+	<desc>index icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve31"  d="M1500 1300l0 -100c0,-165 135,-300 300,-300 72,0 603,-5 596,6 -60,83 -96,184 -96,294l0 100 -800 0z"/>
+	<path id="curve30"  d="M2500 1300l0 -100c0,-165 135,-300 300,-300l600 0c-1,2 -3,4 -4,6 -60,83 -96,184 -96,294l0 100 -800 0z"/>
+	<path id="curve29"  d="M900 2500l0 -1000 2600 0 0 -300c0,-165 135,-300 300,-300l800 0c165,0 300,135 300,300l0 1300 -4000 0z"/>
+	<path id="curve28"  d="M814 5300l-244 -1602c-152,-15 -270,-145 -270,-298l0 -400c0,-165 135,-300 300,-300l4600 0c165,0 300,135 300,300l0 400c0,153 -118,283 -269,298l-245 1602 -4172 0z"/>
+</svg>

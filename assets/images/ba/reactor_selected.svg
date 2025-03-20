@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>reactor icon</title>
+	<desc>reactor icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M2100 1900c884,0 1600,716 1600,1600l0 2000 -3200 0 0 -2000c0,-884 716,-1600 1600,-1600zm1342 400c452,0 905,0 1358,0l0 600c0,442 24,786 109,1126 116,462 332,862 561,1274l-1571 0 1 -1800c0,-461 -173,-882 -458,-1200zm1053 -1827c444,0 805,361 805,805 0,300 -169,577 -435,715 -15,29 -32,56 -50,83 -6,8 -11,16 -17,24l-1567 0c-309,-250 -702,-400 -1131,-400 -182,0 -358,27 -524,77 -19,-27 -36,-56 -52,-86 -253,-86 -424,-325 -424,-592 0,-346 280,-626 626,-626 114,0 226,31 324,90 167,-167 395,-263 632,-263 163,0 324,45 463,130 147,-85 317,-130 487,-130 221,0 437,76 610,214 80,-27 167,-41 253,-41z"/>
+</svg>

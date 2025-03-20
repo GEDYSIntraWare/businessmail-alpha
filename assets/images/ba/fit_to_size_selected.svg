@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>fit_to_size icon</title>
+	<desc>fit_to_size icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve35"  d="M300,700 5500,700 5500,900 300,900z"/>
+	<path id="curve34"  d="M900,300 900,5500 700,5500 700,300z"/>
+	<path id="curve33"  d="M5100,300 5100,5500 4900,5500 4900,300z"/>
+	<path id="curve32"  d="M300,4900 5500,4900 5500,5100 300,5100z"/>
+	<path id="curve31"  d="M2159,1559 2900,817 3641,1559 3359,1841 2900,1383 2441,1841z"/>
+	<path id="curve30"  d="M4241,2159 4983,2900 4241,3641 3959,3359 4417,2900 3959,2441z"/>
+	<path id="curve29"  d="M3641,4241 2900,4983 2159,4241 2441,3959 2900,4417 3359,3959z"/>
+	<path id="curve28"  d="M1559,3641 817,2900 1559,2159 1841,2441 1383,2900 1841,3359z"/>
+</svg>
