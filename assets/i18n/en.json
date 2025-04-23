@@ -228,5 +228,7 @@
   "dismissMessage": "OK",
   "notConnected": "disconnected",
   "grapherror": "Microsoft Graph not connected.",
-  "deleteOnSend": "Delete e-mail after documenting"
+  "deleteOnSend": "Delete e-mail after documenting",
+  "LC04932": "Would you like to choose a work activity",
+  "LC04933": "The selected project has work activities. You have the option of choosing one or more work activities."
 }

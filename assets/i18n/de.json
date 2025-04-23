@@ -228,5 +228,7 @@
   "dismissMessage": "OK",
   "notConnected": "getrennt",
   "grapherror": "Keine Verbindung zu Microsoft Graph.",
-  "deleteOnSend": "E-Mail nach Dokumentieren löschen"
+  "deleteOnSend": "E-Mail nach Dokumentieren löschen",
+  "LC04932": "Das gewählte Projekt besitzt Arbeitsvorgänge. Sie habenn die Möglichkeit, eine oder mehrere Arbeitsvorgänge zu wählen",
+  "LC04933": "Möchten Sie einen Arbeitsvorgang wählen?"
 }
