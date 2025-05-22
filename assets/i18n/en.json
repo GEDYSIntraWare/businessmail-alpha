@@ -139,7 +139,7 @@
   "documentVerb": "Document",
   "updateVerb": "Update",
   "noActivities": "No documents",
-  "selectProjectPhases": "Select Project Phases / Workactivities",
+  "selectProjectPhases": "Select Project Phases",
   "pleaseLogIn": "Please log in.",
   "giLoginText": "If you don't see the log-in window make sure pop-ups are allowed in your browser and look, if it appeared on a different screen.",
   "noGraph": "You have to login to Microsoft Graph in order that BusinessMail Add-in works properly.",
@@ -218,7 +218,7 @@
   "activateLinkOption": "Add hyperlinks into body",
   "documentButtonTooltipOff": "Please select destination document",
   "showContactsList": "Show list of contacts",
-  "AnyCompany": "Any company",
+  "AnyCompany": "Existing company",
   "selectCompany": "Select company",
   "searchCompanyInCRM": "Search company",
   "NewContactCreatedAndConnected": "New contact created and added to selected company",
@@ -230,5 +230,9 @@
   "grapherror": "Microsoft Graph not connected.",
   "deleteOnSend": "Delete e-mail after documenting",
   "LC04932": "Would you like to choose a work activity",
-  "LC04933": "The selected project has work activities. You have the option of choosing one or more work activities."
+  "LC04933": "The selected project has work activities. You have the option of choosing one or more work activities.",
+  "selectWorkActivities": "Select Workactivities",
+  "licenseNeeded": "You need a valid license to use this application.",
+  "smimeMailError": "This email is signed or encrypted and contains attachments. It cannot be documented at this time. If attachments are disabled, the email can be documented.",
+  "smimeAndItemAttachmentsError": "This email is signed or encrypted and contains a referenced email. It is currently not supported and therefore cannot be documented."
 }
