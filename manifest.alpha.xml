@@ -7,18 +7,13 @@
   <Version>4.0.0.0</Version>
   <ProviderName>GEDYS IntraWare</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
-  <DisplayName DefaultValue="Business Mail"/>
+  <DisplayName DefaultValue="Business Mail Alpha"/>
   <Description DefaultValue="Business Mail for Outlook Web App by GEDYS IntraWare GmbH."/>
   <IconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_64.png"/>
   <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_128.png"/>
   <SupportUrl DefaultValue="https://www.gedys-intraware.de"/>
   <AppDomains>
-    <AppDomain>https://www.gedys-intraware.de</AppDomain>
-    <AppDomain>https://crmint.gedys-intraware.de</AppDomain>
-    <AppDomain>https://qafud03.gedys-intraware.de</AppDomain>
-    <AppDomain>https://qafud01.intraware.de</AppDomain>
-    <AppDomain>https://qafud04.intraware.de</AppDomain>
-    <AppDomain>https://lnsfud20.intraware.de</AppDomain>
+    <AppDomain>https://www.gomobile.gedys-intraware.de</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -183,10 +178,10 @@
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="GEDYS IntraWare Add-in"/>
-          <bt:String id="TaskpaneButton.Label" DefaultValue="GEDYS IntraWare Business Mail"/>
+          <bt:String id="TaskpaneButton.Label" DefaultValue="GEDYS IntraWare Business Mail Alpha"/>
         </bt:ShortStrings>
         <bt:LongStrings>
-          <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Start GEDYS IntraWare Business Mail."/>
+          <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Start GEDYS IntraWare Business Mail Alpha."/>
         </bt:LongStrings>
       </Resources>
     </VersionOverrides>
