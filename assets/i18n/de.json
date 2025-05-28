@@ -1,7 +1,7 @@
 {
   "translationWait": "success",
   "webIntInputTitle": "URL eingeben",
-  "webIntInputText": "Bitte geben Sie die URL zur WebInt.nsf oder Business App an.\n(Beispiel: https://www.example.com/webint.nsf)\n\n",
+  "webIntInputText": "Bitte geben Sie die URL zur Gedys CXM oder WebInt.nsf an.\n(Beispiel: https://www.example.com/CXM)\n\n",
   "webIntLogout": "Achtung: Sie werden von der aktuellen Anwendung abgemeldet!",
   "webIntInvalid": "Diese URL ist ungültig.",
   "webIntHttp": "Nur URLs mit dem HTTPS Protokoll sind gültig.",
@@ -196,8 +196,8 @@
   "noSubject": "{Kein Betreff}",
   "cantLoadData": "Beschädigte Daten. Daten können nicht geladen werden.",
   "tags": "Tags",
-  "baInstanceStarting": "Die BA-Instanz wird gestartet, bitte versuchen Sie es erneut. ",
-  "baInstanceNotAvailable": "Die BA-Instanz ist über die konfigurierte URL nicht verfügbar.",
+  "baInstanceStarting": "Die CXM-Instanz wird gestartet, bitte versuchen Sie es erneut. ",
+  "baInstanceNotAvailable": "Die CXM-Instanz ist über die konfigurierte URL nicht verfügbar.",
   "userSettings": "Einstellungen",
   "settingsSaved": "Einstellungen gespeichert",
   "errorOnSettingsSave": "Fehler beim Speichern von Benutzereinstellungen",
@@ -226,7 +226,7 @@
   "loaded": "Geladen: ",
   "noFooterInfoAvailableManualDataNeeded": "Keine Adressdaten aus E-Mail Footer erhalten. Bitte Daten manuell eingeben.",
   "dismissMessage": "OK",
-  "notConnected": "getrennt",
+  "notConnected": "Nicht verbunden",
   "grapherror": "Keine Verbindung zu Microsoft Graph.",
   "deleteOnSend": "E-Mail nach Dokumentieren löschen",
   "LC04932": "Das gewählte Projekt besitzt Arbeitsvorgänge. Sie habenn die Möglichkeit, eine oder mehrere Arbeitsvorgänge zu wählen",
@@ -234,5 +234,7 @@
   "selectWorkActivities": "Arbeitsvorgänge auswählen",
   "licenseNeeded": "Sie benötigen eine gültige Lizenz zum Verwenden dieser Anwendung.",
   "smimeMailError": "Diese E-Mail ist signiert oder verschlüsselt und enthält Anhänge. Sie kann daher aktuell nicht dokumentiert werden. Bei Deaktivieren der Anhänge kann die E-Mail dokumentiert werden.",
-  "smimeAndItemAttachmentsError": "Diese E-Mail ist signiert oder verschlüsselt und enthält eine referenzierte E-Mail. Sie wird derzeit nicht unterstützt und kann daher nicht dokumentiert werden."
+  "smimeAndItemAttachmentsError": "Diese E-Mail ist signiert oder verschlüsselt und enthält eine referenzierte E-Mail. Sie wird derzeit nicht unterstützt und kann daher nicht dokumentiert werden.",
+  "graphConfigurationErrorCXM": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in CXM!",
+  "graphConfigurationErrorGI": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in GI!"
 }

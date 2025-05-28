@@ -13,7 +13,12 @@
   <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_128.png"/>
   <SupportUrl DefaultValue="https://www.gedys-intraware.de"/>
   <AppDomains>
-    <AppDomain>https://www.gomobile.gedys-intraware.de</AppDomain>
+    <AppDomain>https://www.gedys-intraware.de</AppDomain>
+    <AppDomain>https://crmint.gedys-intraware.de</AppDomain>
+    <AppDomain>https://qafud03.gedys-intraware.de</AppDomain>
+    <AppDomain>https://qafud01.intraware.de</AppDomain>
+    <AppDomain>https://qafud04.intraware.de</AppDomain>
+    <AppDomain>https://lnsfud20.intraware.de</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>

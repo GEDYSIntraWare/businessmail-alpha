@@ -1,7 +1,7 @@
 {
-  "translationWait": "success",
+  "translationWait": "Success",
   "webIntInputTitle": "Enter URL",
-  "webIntInputText": "Please enter the URL to the WebInt.nsf or Business App.\n(Example: https://www.example.com/webint.nsf)\n\n",
+  "webIntInputText": "Please enter the URL to Gedys CXM or the WebInt.nsf.\n(Example: https://www.example.com/CXM)\n\n",
   "webIntLogout": "Warning: You will be logged out from the current application!",
   "webIntInvalid": "This URL is invalid.",
   "webIntHttp": "Only URLs with HTTPS are applicable.",
@@ -122,7 +122,7 @@
   "projectSelection": "Project Selection",
   "selectedProjects": "Selected Projects",
   "assignedProjects": "Participates in projects",
-  "recipients": "recipient",
+  "recipients": "Recipient",
   "sender": "Sender",
   "owner": "Owner",
   "requiredAttendee": "Required",
@@ -196,8 +196,8 @@
   "noSubject": "{No subject}",
   "cantLoadData": "Corrupt data. Data cannot be loaded.",
   "tags": "Tags",
-  "baInstanceStarting": "The BA instance is starting, please try again. ",
-  "baInstanceNotAvailable": "The BA instance is not available over configured URL.",
+  "baInstanceStarting": "The CXM instance is starting, please try again. ",
+  "baInstanceNotAvailable": "The CXM instance is not available over configured URL.",
   "userSettings": "Settings",
   "settingsSaved": "Settings saved",
   "errorOnSettingsSave": "Error while saving user settings",
@@ -226,7 +226,7 @@
   "loaded": "Loaded: ",
   "noFooterInfoAvailableManualDataNeeded": "No address data received from mail footer, please insert data manually.",
   "dismissMessage": "OK",
-  "notConnected": "disconnected",
+  "notConnected": "Disconnected",
   "grapherror": "Microsoft Graph not connected.",
   "deleteOnSend": "Delete e-mail after documenting",
   "LC04932": "Would you like to choose a work activity",
@@ -234,5 +234,7 @@
   "selectWorkActivities": "Select Workactivities",
   "licenseNeeded": "You need a valid license to use this application.",
   "smimeMailError": "This email is signed or encrypted and contains attachments. It cannot be documented at this time. If attachments are disabled, the email can be documented.",
-  "smimeAndItemAttachmentsError": "This email is signed or encrypted and contains a referenced email. It is currently not supported and therefore cannot be documented."
+  "smimeAndItemAttachmentsError": "This email is signed or encrypted and contains a referenced email. It is currently not supported and therefore cannot be documented.",
+  "graphConfigurationErrorCXM": "Please check the configuration of the business mail IDs in CXM!",
+  "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!"
 }
