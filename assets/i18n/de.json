@@ -236,5 +236,6 @@
   "smimeMailError": "Diese E-Mail ist signiert oder verschlüsselt und enthält Anhänge. Sie kann daher aktuell nicht dokumentiert werden. Bei Deaktivieren der Anhänge kann die E-Mail dokumentiert werden.",
   "smimeAndItemAttachmentsError": "Diese E-Mail ist signiert oder verschlüsselt und enthält eine referenzierte E-Mail. Sie wird derzeit nicht unterstützt und kann daher nicht dokumentiert werden.",
   "graphConfigurationErrorCXM": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in CXM!",
-  "graphConfigurationErrorGI": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in GI!"
+  "graphConfigurationErrorGI": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in GI!",
+  "badDominoSettings": "Die Einstellungen des Domino-Servers sind mit dieser Loginart nicht kompatibel. Bitte kontaktieren Sie Ihren Administrator."
 }

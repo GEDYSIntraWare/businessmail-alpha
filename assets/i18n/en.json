@@ -236,5 +236,6 @@
   "smimeMailError": "This email is signed or encrypted and contains attachments. It cannot be documented at this time. If attachments are disabled, the email can be documented.",
   "smimeAndItemAttachmentsError": "This email is signed or encrypted and contains a referenced email. It is currently not supported and therefore cannot be documented.",
   "graphConfigurationErrorCXM": "Please check the configuration of the business mail IDs in CXM!",
-  "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!"
+  "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!",
+  "badDominoSettings": "The Domino server settings are not compatible with this login method. Please contact your administrator."
 }
