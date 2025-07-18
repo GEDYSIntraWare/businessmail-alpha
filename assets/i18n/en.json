@@ -169,7 +169,7 @@
   "NoContact": "No Contact",
   "NewContact": "New Contact",
   "NewCompanyAndContactCreated": "New company and contact created",
-  "NewContactCreatedAndAdded": "New contact created and added to existing company",
+  "NewContactCreated": "New contact created and added to existing company",
   "NewStandaloneContactCreated": "New standalone contact created",
   "NewCompanyCreated": "New company created",
   "Create": "Create",
@@ -236,5 +236,7 @@
   "smimeMailError": "This email is signed or encrypted and contains attachments. It cannot be documented at this time. If attachments are disabled, the email can be documented.",
   "smimeAndItemAttachmentsError": "This email is signed or encrypted and contains a referenced email. It is currently not supported and therefore cannot be documented.",
   "graphConfigurationErrorCXM": "Please check the configuration of the business mail IDs in CXM!",
-  "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!"
+  "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!",
+  "roleNoperms": "You do not have permission to perform this action.",
+  "documentationError": "An error occurred while documenting the email. Businessmail needs to be reloaded."
 }
