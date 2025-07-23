@@ -238,5 +238,6 @@
   "graphConfigurationErrorCXM": "Please check the configuration of the business mail IDs in CXM!",
   "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!",
   "roleNoperms": "You do not have permission to perform this action.",
-  "documentationError": "An error occurred while documenting the email. Businessmail needs to be reloaded."
+  "documentationError": "An error occurred while documenting the email. Businessmail needs to be reloaded.",
+  "badDominoSettings": "The Domino server settings are not compatible with this login method. Please contact your administrator."
 }

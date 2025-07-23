@@ -238,5 +238,6 @@
   "graphConfigurationErrorCXM": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in CXM!",
   "graphConfigurationErrorGI": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in GI!",
   "roleNoperms": "Sie haben nicht die Berechtigung, diese Aktion auszuführen.",
-  "documentationError": "Beim Dokumentieren der E-Mail ist ein Fehler aufgetreten. Businessmail muss neu geladen werden."
+  "documentationError": "Beim Dokumentieren der E-Mail ist ein Fehler aufgetreten. Businessmail muss neu geladen werden.",
+  "badDominoSettings": "Die Einstellungen des Domino-Servers sind mit dieser Loginart nicht kompatibel. Bitte kontaktieren Sie Ihren Administrator."
 }
