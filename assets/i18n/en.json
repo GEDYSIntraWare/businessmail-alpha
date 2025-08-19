@@ -162,7 +162,7 @@
   "Telephone": "Telephone",
   "Mobile": "Mobile",
   "Fax": "Fax",
-  "ComapnyAction": "Company Action",
+  "CompanyAction": "Company Action",
   "NoCompany": "No Company",
   "NewCompany": "New Company",
   "ExistingCompany": "Existing Company",
@@ -239,5 +239,9 @@
   "graphConfigurationErrorGI": "Please check the configuration of the business mail IDs in GI!",
   "roleNoperms": "You do not have permission to perform this action.",
   "documentationError": "An error occurred while documenting the email. Businessmail needs to be reloaded.",
-  "badDominoSettings": "The Domino server settings are not compatible with this login method. Please contact your administrator."
+  "badDominoSettings": "The Domino server settings are not compatible with this login method. Please contact your administrator.",
+  "NotMinRightsAutoLogout": "You do not have the required permissions to use the add-in. Please contact your administrator. You will be automatically logged out shortly.",
+  "noProjectSelectionPermission": "You do not have permission to select or remove projects.",
+  "noOfficeDbs": "No Office databases connected. Please contact your administrator. You will be automatically logged out shortly.",
+  "catchwords": "Catchwords"
 }
