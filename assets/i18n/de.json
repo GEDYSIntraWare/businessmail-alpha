@@ -162,7 +162,7 @@
   "Telephone": "Telefon",
   "Mobile": "Mobil",
   "Fax": "Fax",
-  "CompanyAction": "Firma Aktion",
+  "ComapnyAction": "Firma Aktion",
   "NoCompany": "Keine Firma",
   "NewCompany": "Neue Firma",
   "ExistingCompany": "Vorhandene Firma",
@@ -239,9 +239,7 @@
   "graphConfigurationErrorGI": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in GI!",
   "roleNoperms": "Sie haben nicht die Berechtigung, diese Aktion auszuführen.",
   "documentationError": "Beim Dokumentieren der E-Mail ist ein Fehler aufgetreten. Businessmail muss neu geladen werden.",
-  "badDominoSettings": "Die Einstellungen des Domino-Servers sind mit dieser Loginart nicht kompatibel. Bitte kontaktieren Sie Ihren Administrator.",
-  "NotMinRightsAutoLogout": "Sie haben nicht die erforderlichen Rechte, um das Addin zu verwenden. Kontaktieren Sie Ihren Administrator. Sie werden gleich automatisch abgemeldet.",
-  "noProjectSelectionPermission": "Sie haben nicht die Berechtigung, Projekte auszuwählen oder zu entfernen.",
-  "noOfficeDbs": "Keine Office-Datenbanken angebunden. Kontaktieren Sie bitte Ihren Administrator. Sie werden gleich automatisch abgemeldet.",
-  "catchwords": "Schlagwörter"
+  "today": "Heute",
+  "tomorrow": "Morgen",
+  "yesterday": "Gestern"
 }
