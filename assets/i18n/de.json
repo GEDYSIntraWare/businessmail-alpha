@@ -249,5 +249,6 @@
   "catchwords": "Schlagwörter",
   "notSupportedYet": "Diese Funktion ist in dieser Umgebung momentan nicht verfügbar.",
   "successTicketCreation": "Ticket erfolgreich erstellt.",
-  "errorTicketCreation": "Fehler beim Erstellen des Tickets: "
+  "errorTicketCreation": "Fehler beim Erstellen des Tickets: ",
+  "autoDocument": "Neue E-Mail automatisch dokumentieren"
 }
