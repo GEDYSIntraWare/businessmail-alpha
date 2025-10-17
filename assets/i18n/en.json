@@ -256,5 +256,6 @@
   "autoDocument": "Automatically document new email",
   "today": "Today",
   "tomorrow": "Tomorrow",
-  "yesterday": "Yesterday"
+  "yesterday": "Yesterday",
+  "incorrectGraphIds": "The configured Microsoft Graph IDs are incorrect. Please check your configuration."
 }
