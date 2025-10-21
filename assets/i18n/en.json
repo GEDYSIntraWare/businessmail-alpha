@@ -257,5 +257,6 @@
   "today": "Today",
   "tomorrow": "Tomorrow",
   "yesterday": "Yesterday",
-  "incorrectGraphIds": "The configured Microsoft Graph IDs are incorrect. Please check your configuration."
+  "incorrectGraphIds": "The configured Microsoft Graph IDs are incorrect. Please check your configuration.",
+  "ticketCreationFailed": "Ticket creation failed. Try again later."
 }

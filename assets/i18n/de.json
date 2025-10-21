@@ -257,5 +257,6 @@
   "notSupportedYet": "Diese Funktion ist in dieser Umgebung momentan nicht verfügbar.",
   "errorTicketCreation": "Fehler beim Erstellen des Tickets: ",
   "autoDocument": "Neue E-Mail automatisch dokumentieren",
-  "incorrectGraphIds": "Die konfigurierten Microsoft Graph IDs sind inkorrekt. Bitte prüfen Sie Ihre Konfiguration."
+  "incorrectGraphIds": "Die konfigurierten Microsoft Graph IDs sind inkorrekt. Bitte prüfen Sie Ihre Konfiguration.",
+  "ticketCreationFailed": "Ticket-Erstellung fehlgeschlagen. Bitte versuchen Sie es später erneut."
 }
