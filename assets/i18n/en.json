@@ -249,10 +249,5 @@
   "catchwords": "Catchwords",
   "notSupportedYet": "This feature is currently not available in this environment.",
   "successTicketCreation": "Ticket created successfully.",
-  "errorTicketCreation": "An error occurred while creating the ticket:",
-  "autoDocument": "Automatically document new email",
-  "documentationError": "An error occurred while documenting the email. Businessmail needs to be reloaded.",
-  "today": "Today",
-  "tomorrow": "Tomorrow",
-  "yesterday": "Yesterday"
+  "errorTicketCreation": "An error occurred while creating the ticket:"
 }
