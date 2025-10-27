@@ -85,7 +85,7 @@
   "LC73169": "E-Mails will not be opened after transfer",
   "LC73172": "Include attachments",
   "LC73173": "Exclude attachments",
-  "LC53160": "Convert E-Mail into a ticket",
+  "LC53160": "Converted E-Mail into a ticket.",
   "LC04452": "Create phone call",
   "LC03593": "Project relation is mandatory, so please select a project.",
   "LC53485": "Please enter an E-Mail address in {FIELD}",
@@ -256,5 +256,7 @@
   "autoDocument": "Automatically document new email",
   "today": "Today",
   "tomorrow": "Tomorrow",
-  "yesterday": "Yesterday"
+  "yesterday": "Yesterday",
+  "incorrectGraphIds": "The configured Microsoft Graph IDs are incorrect. Please check your configuration.",
+  "ticketCreationFailed": "Ticket creation failed. Try again later."
 }
