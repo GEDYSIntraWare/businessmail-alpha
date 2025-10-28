@@ -169,7 +169,7 @@
   "NoContact": "Kein Kontakt",
   "NewContact": "Neuer Kontakt",
   "NewCompanyAndContactCreated": "Es wurde ein neuer Kontakt und eine neue Firma erstellt.",
-  "NewContactCreated": "Es wurde ein neuer Kontakt erstellt und zu einer existierenden Firma hinzugefügt.",
+  "NewContactCreatedAndAdded": "Es wurde ein neuer Kontakt erstellt und zu einer existierenden Firma hinzugefügt.",
   "NewStandaloneContactCreated": "Neuer Privatkontakt erstellt.",
   "NewCompanyCreated": "Neue Firma erstellt.",
   "Create": "Erstellen",
@@ -237,6 +237,5 @@
   "smimeAndItemAttachmentsError": "Diese E-Mail ist signiert oder verschlüsselt und enthält eine referenzierte E-Mail. Sie wird derzeit nicht unterstützt und kann daher nicht dokumentiert werden.",
   "graphConfigurationErrorCXM": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in CXM!",
   "graphConfigurationErrorGI": "Bitte prüfen Sie die Konfiguration der Business Mail IDs in GI!",
-  "roleNoperms": "Sie haben nicht die Berechtigung, diese Aktion auszuführen.",
-  "documentationError": "Beim Dokumentieren der E-Mail ist ein Fehler aufgetreten. Businessmail muss neu geladen werden."
+  "badDominoSettings": "Die Einstellungen des Domino-Servers sind mit dieser Loginart nicht kompatibel. Bitte kontaktieren Sie Ihren Administrator."
 }
