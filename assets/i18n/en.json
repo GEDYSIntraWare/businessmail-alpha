@@ -259,5 +259,6 @@
   "yesterday": "Yesterday",
   "incorrectGraphIds": "The configured Microsoft Graph IDs are incorrect. Please check your configuration and reload the add-in.",
   "ticketCreationFailed": "Ticket creation failed. Try again later.",
-  "emailWasConverted": "The email was converted into a ticket."
+  "emailWasConverted": "The email was converted into a ticket.",
+  "webIntNotValid": "The configured URL is not valid. Please check your input."
 }
