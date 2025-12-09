@@ -261,5 +261,8 @@
   "incorrectGraphIds": "Fehlerhafte Konfiguration: bitte lassen Sie die Anwendungs- und Verzeichnis IDs durch Ihren Administrator prüfen!",
   "ticketCreationFailed": "Ticket-Erstellung fehlgeschlagen. Bitte versuchen Sie es später erneut.",
   "emailWasConverted": "Die E-Mail wurde in ein Ticket umgewandelt.",
-  "webIntNotValid": "Die eingegebene URL ist nicht gültig. Bitte überprüfen Sie Ihre Eingabe."
+  "webIntNotValid": "Die eingegebene URL ist nicht gültig. Bitte überprüfen Sie Ihre Eingabe.",
+  "showMore": "Mehr anzeigen...",
+  "showLess": "Weniger anzeigen",
+  "giCouldHaveMore": "Hinweis: Es werden nur die ersten 10 Dokumente angezeigt. Weitere können vorhanden sein."
 }

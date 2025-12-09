@@ -261,5 +261,8 @@
   "incorrectGraphIds": "Missing configuration: please contact your administrator to check the application and tenant IDs!",
   "ticketCreationFailed": "Ticket creation failed. Try again later.",
   "emailWasConverted": "The email was converted into a ticket.",
-  "webIntNotValid": "The configured URL is not valid. Please check your input."
+  "webIntNotValid": "The configured URL is not valid. Please check your input.",
+  "showMore": "Show more...",
+  "showLess": "Show less",
+  "giCouldHaveMore": "Note: Only the first 10 documents are displayed. More may be available."
 }
