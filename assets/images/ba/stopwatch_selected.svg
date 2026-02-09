@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>stopwatch icon</title>
+	<desc>stopwatch icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M3700 300l0 600 -400 0 0 238c305,59 593,186 843,370l305 -305c142,141 283,282 424,424l-301 301c279,367 429,811 429,1272 0,1160 -940,2100 -2100,2100 -1160,0 -2100,-940 -2100,-2100 0,-1004 714,-1872 1700,-2062l0 -238 -400 0c0,-200 0,-400 0,-600l1600 0zm-698 2672l-2 -1372 -200 0 2 1370c-91,39 -152,130 -152,230 0,137 112,250 250,250 137,0 250,-112 250,-250 0,-99 -59,-189 -148,-228z"/>
+</svg>

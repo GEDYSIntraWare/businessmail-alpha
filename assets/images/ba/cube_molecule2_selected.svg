@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>cube_molecule2 icon</title>
+	<desc>cube_molecule2 icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve46"  d="M900 1000c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve45"  d="M900 3600c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve44"  d="M3000 1200l0 305c-33,-3 -66,-5 -100,-5 -34,0 -67,2 -100,5l0 -305 200 0z"/>
+	<path id="curve43"  d="M3400,3416 4441,3884 4359,4066 3400,3634z"/>
+	<path id="curve42"  d="M2400,3634 1341,4111 1259,3929 2400,3416z"/>
+	<path id="curve41"  d="M2900 1900c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve40"  d="M2900 4500c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve39"  d="M2900 100c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve38"  d="M4900 1000c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve37"  d="M4900 3600c331,0 600,269 600,600 0,331 -269,600 -600,600 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600z"/>
+	<path id="curve36"  d="M1000,2100 1000,3700 800,3700 800,2100z"/>
+	<path id="curve35"  d="M3000,3000 3000,4600 2800,4600 2800,3000z"/>
+	<path id="curve34"  d="M4800,3700 4800,2100 5000,2100 5000,3700z"/>
+	<path id="curve33"  d="M1385,4309 2497,4809 2415,4991 1303,4491z"/>
+	<path id="curve32"  d="M1385,1709 2497,2209 2415,2391 1303,1891z"/>
+	<path id="curve31"  d="M3413,826 4486,1309 4404,1491 3331,1008z"/>
+	<path id="curve30"  d="M2497,991 1385,1491 1303,1309 2415,809z"/>
+	<path id="curve29"  d="M4541,4471 3341,5011 3259,4829 4459,4289z"/>
+	<path id="curve28"  d="M4497,1891 3385,2391 3303,2209 4415,1709z"/>
+</svg>

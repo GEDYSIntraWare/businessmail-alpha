@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>scroll icon</title>
+	<desc>scroll icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M4998 700c-165,1 -298,135 -298,300l0 3800c0,194 -91,377 -308,377 -96,0 -201,-58 -253,-140 -53,-92 -69,-249 -10,-307 98,-100 172,-228 139,-372 -42,-181 -193,-258 -368,-258l-2800 0 0 -3100c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500 0,276 -224,500 -500,500l0 -200c166,0 300,-134 300,-300 0,-167 -135,-301 -302,-300z"/>
+	<path id="curve28"  d="M800 5300c-276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500l3100 0c96,0 156,27 173,102 12,54 -14,114 -86,187 -28,27 -50,60 -65,97 -71,171 -13,414 117,544 26,27 55,50 87,70l-3326 0zm3392 -200c3,0 5,0 8,0l0 7c-3,-2 -5,-5 -8,-7z"/>
+</svg>

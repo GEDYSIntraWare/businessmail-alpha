@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>find_replace icon</title>
+	<desc>find_replace icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30"  d="M2171 4029l770 771 -770 771 -142 -142 530 -529 -959 0c-496,0 -900,-404 -900,-900l0 -300 200 0 0 300c0,385 315,700 700,700l959 0 -530 -529 142 -142z"/>
+	<path id="curve29"  d="M3058 3331c-290,231 -658,369 -1058,369 -939,0 -1700,-761 -1700,-1700 0,-939 761,-1700 1700,-1700 361,0 696,113 971,305l-254 254c-78,77 -78,205 0,282l771 771c57,57 140,72 211,46 1,14 1,28 1,42 0,395 -135,758 -360,1047l320 320 -283 283 -319 -319zm927 -30l1556 1556 -684 684 -1556 -1556 684 -684z"/>
+	<path id="curve28"  d="M4900 2100l0 -300c0,-385 -315,-700 -700,-700l-959 0 530 529 -142 142 -770 -771 770 -771 142 142 -530 529 959 0c496,0 900,404 900,900l0 300 -200 0z"/>
+</svg>

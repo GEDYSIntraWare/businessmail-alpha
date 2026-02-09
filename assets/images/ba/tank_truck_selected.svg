@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>tank_truck icon</title>
+	<desc>tank_truck icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30"  d="M2800 4200l900 0 0 -1500c0,-55 45,-100 100,-100l900 0c33,0 63,16 81,42l698 897c3,4 21,61 21,61l0 800 -215 0c-71,-349 -378,-600 -735,-600 -357,0 -664,251 -735,600l-1015 0 0 -200z"/>
+	<path id="curve29"  d="M2400 1800c125,0 400,31 400,200l300 0c338,0 395,637 395,900 0,263 -57,900 -395,900l-2400 0c-338,0 -395,-637 -395,-900 0,-263 57,-900 395,-900l300 0c0,-170 275,-200 400,-200 125,0 400,31 400,200l200 0c0,-170 275,-200 400,-200z"/>
+	<path id="curve28"  d="M950 4000c304,0 550,246 550,550 0,304 -246,550 -550,550 -304,0 -550,-246 -550,-550 0,-304 246,-550 550,-550zm3600 0c304,0 550,246 550,550 0,304 -246,550 -550,550 -304,0 -550,-246 -550,-550 0,-304 246,-550 550,-550zm-2400 0c304,0 550,246 550,550 0,304 -246,550 -550,550 -304,0 -550,-246 -550,-550 0,-304 246,-550 550,-550z"/>
+</svg>

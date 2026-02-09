@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>reticle icon</title>
+	<desc>reticle icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M2900 300c1436,0 2600,1164 2600,2600 0,1436 -1164,2600 -2600,2600 -1436,0 -2600,-1164 -2600,-2600 0,-1436 1164,-2600 2600,-2600zm100 1806c362,45 649,332 694,694l1003 0c-50,-915 -782,-1647 -1697,-1697l0 1003zm694 894c-45,362 -332,649 -694,694l0 1003c915,-50 1647,-782 1697,-1697l-1003 0zm-894 694c-362,-45 -649,-332 -694,-694l-1003 0c50,915 782,1647 1697,1697l0 -1003zm-694 -894c45,-362 332,-649 694,-694l0 -1003c-915,50 -1647,782 -1697,1697l1003 0zm794 -500c-331,0 -600,269 -600,600 0,331 269,600 600,600 331,0 600,-269 600,-600 0,-331 -269,-600 -600,-600zm100 -1398l0 -400c-67,-3 -133,-3 -200,0l0 400c-1025,51 -1847,873 -1898,1898l-400 0c-3,67 -3,133 0,200l400 0c51,1025 873,1847 1898,1898l0 400c67,3 133,3 200,0l0 -400c1025,-51 1847,-873 1898,-1898l400 0c3,-67 3,-133 0,-200l-400 0c-51,-1025 -873,-1847 -1898,-1898z"/>
+</svg>

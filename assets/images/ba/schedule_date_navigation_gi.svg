@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Schedule_x5F_date_x5F_navigation_x5F_gi"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="580px" height="580px"
+	 viewBox="0 0 580 580" style="enable-background:new 0 0 580 580;" xml:space="preserve">
+<g>
+	<rect x="377" y="251" width="73" height="86"/>
+	<rect x="377" y="384" width="73" height="86"/>
+	<polygon points="408,91.1 408,171.1 456,131.1 	"/>
+	<polygon points="172,91.1 124,131.1 172,171.1 	"/>
+	<rect x="130" y="318" width="147" height="20"/>
+	<rect x="130" y="384" width="147" height="20"/>
+	<rect x="130" y="251" width="147" height="20"/>
+	<rect x="130" y="451" width="147" height="20"/>
+	<path d="M70,50v480h440V50H70z M317,510H90V210h227V510z M490,510H337V210h153V510z M490,190H90V70h400V190z"/>
+</g>
+</svg>

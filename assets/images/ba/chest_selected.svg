@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>chest icon</title>
+	<desc>chest icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M2300 3293l800 400 0 1600 -2400 -1200 0 -1600 1000 500 0 368c200,100 400,200 600,300l0 -368zm-600 -523l-1000 -500 0 -239c0,-566 457,-1182 957,-1422 214,-103 481,-159 704,-52l2334 1168c-214,-43 -441,-11 -638,84 -500,240 -957,856 -957,1422l0 239 -800 -400 0 -231c-200,-100 -400,-200 -600,-300l0 231zm3400 -370l0 170 -1800 900 0 -239c0,-489 412,-1035 843,-1242 215,-104 487,-116 700,-1 160,86 257,229 257,412zm0 393l0 1600 -1800 900 0 -1600 1800 -900zm-3000 168l-200 -100 0 378 200 100 0 -378z"/>
+</svg>

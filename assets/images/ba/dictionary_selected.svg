@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>dictionary icon</title>
+	<desc>dictionary icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M1100 1000c0,275 225,500 500,500l3100 0c110,0 200,90 200,200l0 3800 -3300 0c-386,0 -700,-314 -700,-700l0 -3800c0,-386 314,-700 700,-700l3100 0c110,0 200,90 200,200 -1100,0 -2200,0 -3300,0 -275,0 -500,225 -500,500zm891 2200l618 0 -277 -700 -64 0 -277 700zm688 200c15,66 21,132 21,200l0 100 200 0 0 -100c0,-135 -21,-262 -71,-388l-335 -845c-13,-39 -50,-67 -94,-67l-200 0c-40,0 -77,24 -93,63l-336 849c-51,128 -71,250 -71,388l0 100 200 0 0 -100c0,-58 4,-111 13,-162 2,-13 5,-25 8,-38l758 0zm421 -100l0 200 959 0 -900 900c-38,37 -59,88 -59,141l0 159 1200 0 0 -200 -959 0 900 -900c38,-37 59,-88 59,-141l0 -159 -1200 0z"/>
+	<path id="curve28"  d="M1317 1100l3383 0 0 200 -3115 0c-122,-6 -227,-85 -268,-200zm283 -400l3100 0 0 200 -3383 0c42,-120 156,-200 283,-200z"/>
+</svg>

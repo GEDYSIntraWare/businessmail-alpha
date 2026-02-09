@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="580px" height="580px" viewBox="0 0 580 580" style="enable-background:new 0 0 580 580;" xml:space="preserve">
+<g>
+	<path d="M200,211H90v60h110V211z M180,251h-71v-20h71V251z"/>
+	<path d="M220,271h110v-60H220V271z M240,231h70v20h-70V231z"/>
+	<rect x="90" y="170" width="240" height="20"/>
+	<path d="M90,510h240v-60H90C90,470,90,490,90,510z M110,470h200v20H110V470z"/>
+	<path d="M50,550h320V130H50V550z M70,150h280v380H70V150z"/>
+	<path d="M90,390h240v-12.4V291H90V390z M110,311h200v59H110V311z"/>
+	<rect x="90" y="410" width="240" height="20"/>
+	<rect x="250" y="70" width="240" height="20"/>
+	<polygon points="390,390 390,410 490,410 490,350 390,350 390,370 470,370 470,390 	"/>
+	<polygon points="210,30 210,110 230,110 230,50 510,50 510,430 390,430 390,450 530,450 530,30 	"/>
+	<path d="M490,111H390v60h100V111z M470,151h-70v-20h70V151z"/>
+	<polygon points="490,277.6 490,191 390,191 390,211 470,211 470,270 390,270 390,290 490,290 	"/>
+	<rect x="390" y="310" width="100" height="20"/>
+</g>
+</svg>

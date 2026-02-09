@@ -1,0 +1,13 @@
+These products need to be added to autoamtically generated disclaimer.text
+
+1) for Copyright (c) 2018 Toru Nagashima
+add: regexpp
+
+2) for Copyright (c) 2014-2017, Jon Schlinkert.
+nest to isobject, add: word-wrap
+
+3) for Copyright Fedor Indutny, 2015.
+add: handle-thing, hpack.js, http-deceiver, select-hose, spdy, spdy-transport
+
+4) for Copyright (c) 2018 Mathias Buus
+add: fs-constants

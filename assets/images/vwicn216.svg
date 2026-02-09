@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons_BusinessMail"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1016.44 954.25">
+    <defs>
+        <style>.cls-1{fill:none;stroke:#4d4d4d;stroke-linejoin:round;stroke-width:36px;}</style>
+    </defs>
+    <g id="Ebene_24">
+        <path class="cls-1" d="m868.22,554.25c0,198.82-161.18,360-360,360s-360-161.18-360-360S309.4,194.25,508.22,194.25h315.23"/>
+        <polyline class="cls-1" points="617.45 18.25 823.45 194.25 823.45 194.25 618.95 370.25"/>
+    </g>
+</svg>

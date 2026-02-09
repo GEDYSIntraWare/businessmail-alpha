@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="time_x5F_scale_x5F_gi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="580px" height="580px" viewBox="0 0 580 580" style="enable-background:new 0 0 580 580;"
+	 xml:space="preserve">
+<g>
+	<rect x="69" y="420" width="443" height="20"/>
+	<path d="M69,180h140.5c-1.5,6.5-2.6,13.2-3.4,20H69V180z"/>
+	<path d="M69,260h140.5c1.5,6.8,3.5,13.5,5.8,20H69V260z"/>
+	<path d="M69,340h181.8c6.5,7.2,13.5,13.9,21.1,20H69V340z"/>
+	<rect x="69" y="500" width="443" height="20"/>
+	<path id="curve28_70_" d="M385,200c1.9,0,3.7,0.3,5.4,0.7l42.4-42.3l14.1,14.1l-42.5,42.6c0.4,1.6,0.6,3.2,0.6,4.9c0,11-9,20-20,20
+		s-20-9-20-20c0-1.9,0.3-3.7,0.7-5.4l-69.3-69.3l14.2-14.2l69.5,69.5C381.7,200.2,383.3,200,385,200z M385,60
+		c88.4,0,160,71.6,160,160s-71.6,160-160,160s-160-71.6-160-160S296.6,60,385,60z M385,80c-77.3,0-140,62.7-140,140
+		s62.7,140,140,140s140-62.7,140-140S462.3,80,385,80z"/>
+</g>
+</svg>

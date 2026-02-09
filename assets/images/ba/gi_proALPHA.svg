@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 12857.362 12857.362"
+   version="1.1"
+   width="12857.362"
+   height="12857.362"
+   sodipodi:docname="gi_proALPHA.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.062765595"
+     inkscape:cx="6484.4442"
+     inkscape:cy="4564.6026"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #004e86;
+      }
+    </style>
+  </defs>
+  <g
+     id="layer1"
+     style="display:inline">
+    <path
+       id="rect1-8"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:113.266"
+       class="cls-2"
+       d="M 1604.9694,0 C 715.81147,0 0,715.81147 0,1604.9694 v 9633.3566 c 0,889.157 715.81147,1604.969 1604.9694,1604.969 h 9633.3566 c 889.157,0 1604.969,-715.812 1604.969,-1604.969 V 1604.9694 C 12843.295,715.81147 12127.483,0 11238.326,0 Z m 4324.4579,3171.4462 c 875.5457,0 1668.3896,351.0536 2247.1785,918.5158 v -918.5158 h 1.1101 962.7604 v 5458.2234 h 962.7607 v 962.7605 h -962.7607 v -961.6544 h -918.5159 c -583.3196,593.5135 -1394.3303,962.7605 -2292.5292,962.7605 -1773.7484,0 -3211.0488,-1437.3006 -3211.0488,-3211.0451 0,-1773.7445 1437.3004,-3211.0449 3211.0449,-3211.0449 z m 0,963.8666 c -1241.3946,0 -2247.1783,1005.7837 -2247.1783,2247.1783 0,1241.3946 1005.7837,2247.1785 2247.1783,2247.1785 1241.3947,0 2247.1785,-1005.7839 2247.1785,-2247.1785 0,-1241.3946 -1005.7838,-2247.1783 -2247.1785,-2247.1783 z" />
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>bone icon</title>
+	<desc>bone icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve6"  d="M4006 2520l-1486 1486c-146,146 -159,314 -151,509 8,195 15,370 -221,606 -237,237 -488,237 -726,0 -101,-101 -100,-348 -248,-495 -145,-145 -399,-152 -496,-249 -237,-237 -236,-488 1,-725 236,-236 411,-229 606,-221 195,8 363,-5 509,-151l1487 -1486c145,-146 158,-314 150,-509 -8,-195 -15,-370 221,-606 223,-223 514,-246 731,6 110,127 90,336 243,489 148,149 393,146 496,249 237,237 236,488 -1,725 -236,236 -411,229 -606,221 -195,-8 -363,5 -509,151z"/>
+</svg>

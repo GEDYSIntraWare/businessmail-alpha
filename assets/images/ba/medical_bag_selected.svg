@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>medical_bag icon</title>
+	<desc>medical_bag icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M1000 1297l900 0 0 -395c0,-219 180,-399 400,-399l1200 0c220,0 400,179 400,399l0 395 900 0c385,0 700,315 700,700l0 2600c0,386 -315,700 -700,700l-3800 0c-385,0 -700,-314 -700,-700l0 -2600c0,-385 315,-700 700,-700zm1100 0l1600 0 0 -395c0,-109 -90,-199 -200,-199l-1200 0c-110,0 -200,89 -200,199l0 395zm800 806c-663,0 -1200,537 -1200,1200 0,662 537,1200 1200,1200 663,0 1200,-538 1200,-1200 0,-663 -537,-1200 -1200,-1200z"/>
+	<path id="curve28"  d="M2100,3100 2700,3100 2700,2500 3100,2500 3100,3100 3700,3100 3700,3500 3100,3500 3100,4100 2700,4100 2700,3500 2100,3500z"/>
+</svg>

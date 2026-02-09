@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Ebene_1" text-rendering="geometricPrecision" image-rendering="optimizeQuality" shape-rendering="geometricPrecision"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 580 580"
+	 style="enable-background:new 0 0 580 580;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2CB13;}
+</style>
+<circle class="st0" cx="290" cy="290" r="60"/>
+<g>
+	<path d="M290,540c44.2,0,80-35.8,80-80s-35.8-80-80-80s-80,35.8-80,80S245.8,540,290,540z M290,400c33.1,0,60,26.9,60,60
+		c0,33.1-26.9,60-60,60c-33.1,0-60-26.9-60-60C230,426.9,256.9,400,290,400z"/>
+	<path d="M290,200c44.2,0,80-35.8,80-80s-35.8-80-80-80s-80,35.8-80,80S245.8,200,290,200z M290,60c33.1,0,60,26.9,60,60
+		c0,33.1-26.9,60-60,60c-33.1,0-60-26.9-60-60C230,86.9,256.9,60,290,60z"/>
+	<path d="M130,10v560h320V10H130z M430,550H150V30h280V550z"/>
+	<path d="M290,370c44.2,0,80-35.8,80-80s-35.8-80-80-80s-80,35.8-80,80S245.8,370,290,370z M290,230c33.1,0,60,26.9,60,60
+		c0,33.1-26.9,60-60,60c-33.1,0-60-26.9-60-60C230,256.9,256.9,230,290,230z"/>
+</g>
+</svg>

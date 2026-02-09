@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>zoom_out icon</title>
+	<desc>zoom_out icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30"  d="M3985,3301 5541,4857 4857,5541 3301,3985z"/>
+	<path id="curve28"  d="M3058 3331c-290,231 -658,369 -1058,369 -939,0 -1700,-761 -1700,-1700 0,-939 761,-1700 1700,-1700 939,0 1700,761 1700,1700 0,395 -135,758 -360,1047l320 320 -283 283 -319 -319zm927 -30l1556 1556 -684 684 -1556 -1556 684 -684zm-2885 -1401l0 200 1800 0 0 -200 -1800 0z"/>
+</svg>

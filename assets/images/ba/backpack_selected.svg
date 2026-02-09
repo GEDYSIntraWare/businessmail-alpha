@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>backpack icon</title>
+	<desc>backpack icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M1900 3500l2000 0 0 200 -2000 0 0 -200zm1000 -1400c-773,0 -1400,627 -1400,1400l0 1500c0,165 135,300 300,300l2200 0c165,0 300,-135 300,-300l0 -1500c0,-773 -627,-1400 -1400,-1400zm1000 -1900l600 0c110,0 200,90 200,200l0 1035c-249,-353 -597,-627 -1000,-785l0 -250c0,-110 90,-200 200,-200zm-2600 0l600 0c110,0 200,90 200,200l0 251c-403,157 -751,430 -1000,784l0 -1035c0,-110 90,-200 200,-200zm1600 500c1105,0 1999,895 2000,2000l1 2201c0,330 -270,598 -600,599l-301 0c276,0 500,-224 500,-500l0 -1500c0,-884 -716,-1600 -1600,-1600 -884,0 -1600,716 -1600,1600l0 1500c0,276 224,500 500,500l-299 0c-336,0 -600,-269 -600,-601l-1 -2200c0,-1105 895,-1998 2000,-1999z"/>
+</svg>

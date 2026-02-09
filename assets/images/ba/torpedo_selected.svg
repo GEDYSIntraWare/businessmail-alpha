@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>torpedo icon</title>
+	<desc>torpedo icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M5000 2000l400 0c165,0 300,135 300,300l0 1200c0,165 -135,300 -300,300l-400 0c-165,0 -300,-135 -300,-300l0 -1200c0,-165 135,-300 300,-300zm-3600 1700c-206,0 -504,-85 -743,-220 -556,-313 -631,-761 -75,-1114 254,-162 591,-266 818,-266l0 1600zm600 -1600l1600 0 900 301 0 1003 -900 296 -1600 -5 0 -1595z"/>
+</svg>

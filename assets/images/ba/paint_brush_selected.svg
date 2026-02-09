@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>paint_brush icon</title>
+	<desc>paint_brush icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M4700 4000c0,400 0,800 0,1200 0,165 -135,300 -300,300l-3000 0c-165,0 -300,-135 -300,-300 0,-400 0,-800 0,-1200l200 0 0 791c103,-17 195,-59 281,-97 109,-49 208,-94 319,-94 116,0 197,47 286,99 83,48 175,101 314,101 120,0 205,-120 292,-244 123,-175 250,-356 508,-356 208,0 322,200 437,400 85,150 171,300 263,300 100,0 160,-80 220,-160 74,-98 147,-196 280,-228l0 -512 200 0z"/>
+	<path id="curve28"  d="M2900 300c37,0 75,4 114,11 325,59 594,364 594,698 0,34 -3,71 -10,109l-200 1100c-3,14 -4,29 -4,46 0,103 65,214 172,233 9,2 21,3 34,3l600 0c276,0 500,224 500,500l0 600 -3600 0 0 -600c0,-276 224,-500 500,-500l621 0c12,0 23,-1 32,-3 105,-18 154,-128 154,-224 0,-20 -2,-38 -5,-55l-200 -1100c-7,-38 -10,-74 -10,-109 0,-334 269,-639 594,-698 39,-7 77,-11 114,-11zm0 450c-137,0 -250,112 -250,250 0,138 112,250 250,250 138,0 250,-112 250,-250 0,-137 -112,-250 -250,-250zm-1800 2950l3600 0 0 200 -3600 0 0 -200z"/>
+</svg>

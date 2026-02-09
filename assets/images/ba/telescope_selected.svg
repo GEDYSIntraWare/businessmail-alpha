@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>telescope icon</title>
+	<desc>telescope icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M2159 4913l-282 283c-39,39 -103,39 -142,0l-85 -85c-81,33 -182,30 -291,-7 -130,-43 -274,-134 -402,-261 -127,-128 -218,-272 -261,-402 -37,-109 -40,-210 -7,-291l-85 -85c-39,-39 -39,-103 0,-142l283 -282c39,-39 102,-39 141,0l71 70 1202 -1202c39,-39 102,-39 141,0l849 849c39,39 39,102 0,141l-1202 1202 70 71c39,39 39,102 0,141zm2122 -2687l-919 920 -708 -708 920 -919c39,-39 102,-39 141,0l566 566c39,39 39,102 0,141zm778 -1060l-708 707 -424 -424 707 -708c-39,-39 -39,-102 0,-141 39,-39 103,-39 142,0 141,141 283,283 424,424 39,39 39,103 0,142 -39,39 -102,39 -141,0zm-3592 3762l-595 -595c30,136 130,272 227,368 96,97 232,197 368,227z"/>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>marker icon</title>
+	<desc>marker icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M4469 784l848 849c158,158 158,407 0,565l-2242 2235 -1414 -1413 2242 -2236c159,-158 407,-158 566,0zm-3108 4601l-39 39c-60,63 -72,74 -257,74l-635 0c-83,0 -144,-33 -176,-112 -32,-77 -16,-160 43,-219l421 -425 643 643zm1572 -810l-343 342c-138,137 -336,158 -498,51 -42,-27 -97,-22 -132,13l-360 360 -848 -848 360 -360c35,-35 40,-91 13,-132 -107,-162 -87,-361 51,-498l343 -342 1414 1414z"/>
+</svg>

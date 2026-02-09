@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>crown icon</title>
+	<desc>crown icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M4500 4500l0 800 -3200 0 0 -800 3200 0zm-1600 -3800c331,0 600,269 600,600 0,217 -116,415 -304,522l538 1210 865 -803c-63,-94 -99,-207 -99,-329 0,-331 269,-600 600,-600 331,0 600,269 600,600 0,331 -269,600 -600,600 -21,0 -43,-1 -63,-3l-505 1803 -3264 0 -505 -1803c-20,2 -42,3 -63,3 -331,0 -600,-269 -600,-600 0,-331 269,-600 600,-600 331,0 600,269 600,600 0,122 -36,235 -98,329l864 803 538 -1210c-188,-107 -304,-305 -304,-522 0,-331 269,-600 600,-600z"/>
+</svg>

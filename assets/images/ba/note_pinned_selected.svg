@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>note_pinned icon</title>
+	<desc>note_pinned icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M5153 3553l-1600 1600c-34,34 -72,63 -114,86 40,-74 61,-155 61,-239l0 -1500 1500 0c84,0 166,-21 239,-61 -23,42 -52,81 -86,114zm-4653 1747l0 -3552c143,96 315,152 500,152 213,0 408,-74 562,-197l267 268c39,39 103,39 142,0 39,-39 39,-103 0,-142l-268 -267c123,-154 197,-350 197,-562 0,-185 -56,-357 -152,-500l3552 0 0 2500c0,165 -135,300 -300,300l-1700 0 0 1700c0,165 -135,300 -300,300l-2500 0z"/>
+	<path id="curve28"  d="M1000 300c387,0 700,313 700,700 0,387 -313,700 -700,700 -387,0 -700,-313 -700,-700 0,-387 313,-700 700,-700z"/>
+</svg>

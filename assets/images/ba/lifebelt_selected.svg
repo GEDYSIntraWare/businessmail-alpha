@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>lifebelt icon</title>
+	<desc>lifebelt icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve28"  d="M2900 500c1325,0 2400,1075 2400,2400 0,1325 -1075,2400 -2400,2400 -1325,0 -2400,-1075 -2400,-2400 0,-1325 1075,-2400 2400,-2400zm-1954 3413l868 -501c-151,-321 -151,-703 0,-1024l-868 -501c-327,631 -327,1395 0,2026zm941 -2967l501 868c321,-151 703,-151 1024,0l501 -868c-631,-327 -1395,-327 -2026,0zm2966 941l-867 501c151,321 151,703 0,1024l867 501c328,-631 328,-1395 0,-2026zm-940 2966l-501 -867c-321,151 -703,151 -1024,0l-501 868c631,327 1396,327 2026,-1zm-1013 -2953c-552,0 -1000,448 -1000,1000 0,552 448,1000 1000,1000 552,0 1000,-448 1000,-1000 0,-552 -448,-1000 -1000,-1000z"/>
+</svg>

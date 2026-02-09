@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>wallet_empty icon</title>
+	<desc>wallet_empty icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M300 2900l1300 0c276,0 500,224 500,500l0 600c0,276 -224,500 -500,500l-1300 0c-110,0 -200,-90 -200,-200l0 -1200c0,-110 90,-200 200,-200zm400 1800l0 500c0,112 38,216 101,300l-201 0c-165,0 -300,-135 -300,-300l0 -500 400 0zm-400 -2000l0 -700c0,-165 135,-300 300,-300l201 0c-63,84 -101,188 -101,300l0 700 -400 0zm600 0l0 -700c0,-165 135,-300 300,-300l4000 0c165,0 300,135 300,300l0 3200c0,165 -135,300 -300,300l-4000 0c-165,0 -300,-135 -300,-300l0 -500 700 0c386,0 700,-314 700,-700l0 -600c0,-386 -314,-700 -700,-700l-700 0zm400 600c-221,0 -400,179 -400,400 0,220 180,400 400,400 221,0 400,-179 400,-400 0,-220 -180,-400 -400,-400z"/>
+</svg>

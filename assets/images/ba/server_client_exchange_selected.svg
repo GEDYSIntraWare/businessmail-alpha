@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>server_client_exchange icon</title>
+	<desc>server_client_exchange icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve30"  d="M1900 700l800 0 0 400 -800 0 0 -400zm-1200 2400l1200 0 0 -600 -1000 0 0 400 -200 0 0 -600 1200 0 0 -200 600 0 0 -400 -1600 0 0 400 -200 0 0 -600 2000 0 0 600 400 0 0 -1500c0,-165 -135,-300 -300,-300l-2200 0c-165,0 -300,135 -300,300l0 3700 442 0c-27,-95 -42,-196 -42,-300 0,-300 0,-600 0,-900zm1200 600l0 -400 -600 0 0 600 400 0 200 -200z"/>
+	<path id="curve29"  d="M4701,2300 4701,2700 5299,2700 5299,2300 5500,2300 5500,4900 3800,4900 3800,5300 4500,5300 4500,5500 2900,5500 2900,5300 3600,5300 3600,4900 2924,4900 3024,4800 2100,3876 2100,2300z"/>
+	<path id="curve28"  d="M1100 3300l0 700c0,385 315,700 700,700l559 0 -530 -529 142 -142 770 771 -770 771 -142 -142 530 -529 -559 0c-496,0 -900,-404 -900,-900l0 -700 200 0zm2929 -1529l-770 -771 770 -771 142 142 -530 529 559 0c496,0 900,404 900,900l0 700 -200 0 0 -700c0,-385 -315,-700 -700,-700l-559 0 530 529 -142 142z"/>
+</svg>

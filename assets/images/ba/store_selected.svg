@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>store icon</title>
+	<desc>store icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M5300 2993l0 2507 -600 0 0 -2400 -800 0c189,0 363,-66 500,-176 137,110 311,176 500,176 146,0 282,-39 400,-107zm-4200 307l1800 0 0 1400 -1800 0 0 -1400zm2800 -200l-600 0 0 2400 -2800 0 0 -2507c118,68 254,107 400,107l100 0 900 0c-189,0 -363,-66 -500,-176 -137,110 -311,176 -500,176l0 1800 2200 0 0 -1800 -100 0 -100 0c189,0 363,-66 500,-176 137,110 311,176 500,176zm-150 900c83,0 150,67 150,150 0,83 -67,150 -150,150 -83,0 -150,-68 -150,-150 0,-82 68,-150 150,-150zm750 -700l-1000 0 0 2200 1000 0 0 -2200zm-2600 -200l1000 0c-189,0 -363,-66 -500,-176 -137,110 -311,176 -500,176zm-1400 -1574l0 -1026 4800 0 0 1026 -540 -626 -3720 0 -540 626z"/>
+	<path id="curve28"  d="M1500 2124l0 176c0,526 800,526 800,0l0 -208 137 -792 -511 0 -426 824zm2800 176l0 -176 -426 -824 -511 0 137 792 0 226c23,514 800,498 800,-18zm1200 0c0,166 -67,316 -176,424 -268,268 -716,221 -924,-92 -236,354 -762,359 -1000,0 -235,355 -762,358 -1000,0 -238,357 -765,353 -1000,0 -208,313 -656,360 -924,92 -109,-108 -176,-258 -176,-424l0 -237 830 -963 3540 0 830 963 0 237z"/>
+</svg>

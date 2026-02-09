@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>alarmclock icon</title>
+	<desc>alarmclock icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve31"  d="M1444 4914l-361 541c-30,46 -93,59 -138,28 -46,-30 -59,-93 -28,-138l387 -581c-314,-367 -504,-843 -504,-1364 0,-1160 940,-2100 2100,-2100 1160,0 2100,940 2100,2100 0,521 -190,997 -504,1364l387 581c31,45 18,108 -28,138 -45,31 -108,18 -138,-28l-361 -541c-378,363 -891,586 -1456,586 -565,0 -1078,-223 -1456,-586zm1404 -1707l-1077 -1078 -142 142 1078 1077c-5,17 -7,34 -7,52 0,110 90,200 200,200 110,0 200,-90 200,-200 0,-18 -2,-35 -7,-52l678 -677 -142 -142 -677 678c-34,-9 -70,-9 -104,0z"/>
+	<path id="curve30"  d="M2800,1100 2800,600 3000,600 3000,1100z"/>
+	<path id="curve29"  d="M2500,500 3300,500 3300,700 2500,700z"/>
+	<path id="curve28"  d="M1300 700c318,0 615,151 804,406l77 104 -121 48c-550,216 -998,638 -1247,1174l-55 118 -100 -83c-226,-190 -358,-471 -358,-767 0,-552 448,-1000 1000,-1000zm3200 0c552,0 1000,448 1000,1000 0,296 -132,577 -358,767l-100 83 -55 -118c-249,-536 -697,-958 -1247,-1174l-121 -48 77 -104c189,-255 486,-406 804,-406z"/>
+</svg>

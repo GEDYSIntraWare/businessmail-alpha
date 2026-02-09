@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>map_location2 icon</title>
+	<desc>map_location2 icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+		<path id="curve29"  d="M2099 4311l-1831 861 331 -1874 -311 -1756 1813 -853 43 22c-158,230 -244,504 -244,789 0,280 94,635 251,868 63,93 127,186 190,279 246,361 485,716 697,1099l262 471 262 -471c212,-383 451,-738 697,-1099 63,-93 127,-186 190,-279 157,-233 251,-588 251,-868 0,-154 -25,-304 -73,-447l893 -420 -219 1867 207 1760 -1809 851 -1600 -800z"/>
+	<path id="curve28"  d="M3300 300c663,0 1200,537 1200,1200 0,239 -83,557 -217,756 -349,517 -679,1003 -983,1549 -304,-546 -634,-1032 -983,-1549 -134,-199 -217,-517 -217,-756 0,-663 537,-1200 1200,-1200zm0 500c-387,0 -700,313 -700,700 0,387 313,700 700,700 387,0 700,-313 700,-700 0,-387 -313,-700 -700,-700zm500 700c0,276 -224,500 -500,500 -276,0 -500,-224 -500,-500 0,-276 224,-500 500,-500 276,0 500,224 500,500z"/>
+</svg>

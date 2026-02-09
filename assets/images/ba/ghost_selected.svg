@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="580px" height="580px" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="nonzero" clip-rule="nonzero" viewBox="0 0 5800 5800" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>ghost icon</title>
+	<desc>ghost icon from the IconExperience.com I-Collection. Copyright by INCORS GmbH (www.incors.com).</desc>
+	<path id="curve0"  d="M3413 1396c-188,-92 -413,-83 -413,319 0,352 232,685 465,685 232,0 246,-342 235,-548 -11,-206 -100,-365 -287,-456zm-1026 0c-187,91 -276,250 -287,456 -11,206 3,548 235,548 233,0 465,-288 465,-639 0,-402 -225,-457 -413,-365zm-774 1249c-54,-244 -113,-507 -113,-945 0,-470 147,-798 368,-1018 280,-280 673,-382 1032,-382 359,0 752,102 1032,382 221,220 368,548 368,1018 0,438 -59,701 -113,945 -45,199 -87,386 -87,655 0,272 260,478 430,613 181,143 290,271 377,492 62,153 93,318 93,475 0,225 -254,370 -605,461 -465,121 -1113,159 -1495,159 -382,0 -1030,-38 -1495,-159 -351,-91 -605,-236 -605,-461 0,-157 31,-322 93,-476 88,-222 198,-349 380,-494 171,-136 427,-339 427,-610 0,-269 -42,-456 -87,-655z"/>
+</svg>
