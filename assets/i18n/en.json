@@ -280,6 +280,5 @@
   "showLess": "Show less",
   "giCouldHaveMore": "Note: Only the first 10 documents are displayed.",
   "documented": "Documented",
-  "postDocNoTargetFolder": "No target folder selected to move the e-mail. E-mail was not moved. Please select a folder in the user-settings.",
-  "syncUserSettings": "Synchronize settings across all Outlook clients"
+  "postDocNoTargetFolder": "No target folder selected to move the e-mail. E-mail was not moved. Please select a folder in the user-settings."
 }

@@ -280,6 +280,5 @@
   "showLess": "Weniger anzeigen",
   "giCouldHaveMore": "Hinweis: Es werden nur die ersten 10 Dokumente angezeigt.",
   "documented": "Dokumentiert",
-  "postDocNoTargetFolder": "Zielordner zum Verschieben der E-Mail existiert nicht. Verschieben abgebrochen. Bitte Ordner in den Einstellungen auswählen.",
-  "syncUserSettings": "Einstellungen über alle Outlook Clients synchronisieren"
+  "postDocNoTargetFolder": "Zielordner zum Verschieben der E-Mail existiert nicht. Verschieben abgebrochen. Bitte Ordner in den Einstellungen auswählen."
 }
