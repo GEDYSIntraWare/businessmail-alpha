@@ -285,15 +285,16 @@
   "syncUserSettings": "Synchronize settings across all Outlook clients",
   "CrmUser": "User",
   "multiDocConfirmTitle": "Document multiple e-mails",
-  "multiDocConfirmTotal": "{{count}} e-mail(s) will be documented.",
+  "multiDocConfirmTotal": "{{count}} e-mails will be documented.",
   "multiDocConfirmAlreadyDocumented": "{{count}} e-mail(s) have already been documented.",
   "multiDocConfirmAll": "Document all",
-  "multiDocConfirmOnlyNew": "Only new ({{count}})",
+  "multiDocConfirmOnlyNew": "Only new",
   "multiDocConfirmStart": "Document",
   "multiDocCheckingStatus": "Checking documentation status…",
   "multiDocGiReDocQuestion": "Should already documented e-mails be documented again?",
   "multiDocGiReDocYes": "Yes, document all",
   "multiDocGiReDocNo": "No, only new",
   "multiSelectCancel": "Documenting of selected e-mails was cancelled",
-  "multiDocAllAlreadyDocumented": "All selected e-mails are already documented."
+  "multiDocAllAlreadyDocumented": "All selected e-mails are already documented.",
+  "multiDocAllAlreadyDocumentedQuestion": "All selected e-mails have already been documented. Would you like to document them again?"
 }
