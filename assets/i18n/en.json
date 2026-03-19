@@ -81,8 +81,8 @@
   "LC37113": "Additional actions",
   "LC53481": "Invalid action for documentation",
   "LC73019": "Loading",
-  "LC73168": "E-mails will be opened after documenting",
-  "LC73169": "E-mails will not be opened after documenting",
+  "LC73168": "When documenting a single e-mail, it will be opened afterwards.",
+  "LC73169": "When documenting a single e-mail, it will not be opened afterwards.",
   "LC73174": "This option only works with single e-mails!",
   "LC73172": "Include attachments",
   "LC73173": "Exclude attachments",
@@ -253,6 +253,7 @@
   "notSupportedYet": "This feature is currently not available in this environment.",
   "successTicketCreation": "Ticket created successfully.",
   "ticketCreationCanceled": "Ticket creation canceled.",
+  "noTicketTypesConfigured": "No ticket types configured. Ticket creation not possible.",
   "ticketCreationCanceledTitle": "Canceled",
   "openTicketQuestion": "Open the ticket now?",
   "errorTicketCreation": "An error occurred while creating the ticket:",
@@ -296,5 +297,10 @@
   "multiDocGiReDocNo": "No, only new",
   "multiSelectCancel": "Documenting of selected e-mails was cancelled",
   "multiDocAllAlreadyDocumented": "All selected e-mails are already documented.",
-  "multiDocAllAlreadyDocumentedQuestion": "All selected e-mails have already been documented. Would you like to document them again?"
+  "multiDocAllAlreadyDocumentedQuestion": "All selected e-mails have already been documented. Would you like to document them again?",
+  "multiDocErrorSingular": "1 e-mail could not be documented.",
+  "multiDocErrorPlural": "{count} e-mails could not be documented.",
+  "multiDocErrorTitle": "Error",
+  "multiDocSuccessAll": "{count} e-mail(s) successfully documented.",
+  "multiDocSuccessPartial": "{success}/{total} e-mail(s) successfully documented."
 }

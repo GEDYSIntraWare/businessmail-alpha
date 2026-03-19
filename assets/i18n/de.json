@@ -75,6 +75,7 @@
   "emailDocumented": "E-Mail erfolgreich dokumentiert.",
   "successTicketCreation": "Ticket erfolgreich erstellt.",
   "ticketCreationCanceled": "Ticket-Erstellung abgebrochen.",
+  "noTicketTypesConfigured": "Keine Ticket-Typen konfiguriert. Ticket-Erstellung nicht möglich.",
   "ticketCreationCanceledTitle": "Abgebrochen",
   "openTicketQuestion": "Ticket jetzt öffnen?",
   "LC73210": "Dokumentiert die E-Mail zu einem anderen Dokument",
@@ -85,8 +86,8 @@
   "LC37113": "Weitere Aktionen",
   "LC53481": "Ungültige Aktion für das Dokumentieren",
   "LC73019": "Lade",
-  "LC73168": "E-Mails werden nach dem Dokumentieren geöffnet",
-  "LC73169": "E-Mails werden nach dem Dokumentieren nicht geöffnet",
+  "LC73168": "Beim Dokumentieren einer einzelnen E-Mail wird diese im Anschluss geöffnet.",
+  "LC73169": "Beim Dokumentieren einer einzelnen E-Mail wird diese im Anschluss nicht geöffnet.",
   "LC73174": "Diese Option funktioniert nur für einzelne E-Mails!",
   "LC73172": "Dateianhänge berücksichtigen",
   "LC73173": "Dateianhänge ignorieren",
@@ -296,5 +297,10 @@
   "multiDocGiReDocNo": "Nein, nur neue",
   "multiSelectCancel": "Dokumentieren der ausgewählten E-Mails wurde abgebrochen",
   "multiDocAllAlreadyDocumented": "Alle ausgewählten E-Mails sind bereits dokumentiert.",
-  "multiDocAllAlreadyDocumentedQuestion": "Alle markierten E-Mails wurden bereits dokumentiert. Möchten Sie diese erneut dokumentieren?"
+  "multiDocAllAlreadyDocumentedQuestion": "Alle markierten E-Mails wurden bereits dokumentiert. Möchten Sie diese erneut dokumentieren?",
+  "multiDocErrorSingular": "1 E-Mail konnte nicht dokumentiert werden.",
+  "multiDocErrorPlural": "{count} E-Mails konnten nicht dokumentiert werden.",
+  "multiDocErrorTitle": "Fehler",
+  "multiDocSuccessAll": "{count} E-Mail(s) erfolgreich dokumentiert.",
+  "multiDocSuccessPartial": "{success}/{total} E-Mail(s) erfolgreich dokumentiert."
 }
