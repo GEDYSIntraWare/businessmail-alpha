@@ -9,6 +9,7 @@
   "webIntCheck": "URL konnte nicht geöffnet werden.\nÜberprüfen Sie Ihre Eingabe.",
   "webIntLogoutFailed": "Logout war nicht erfolgreich!",
   "webIntConfig": "Pfad zur Anwendung eingeben/ändern",
+  "applicationPath": "Pfad zur Anwendung",
   "reload": "Aktualisieren",
   "popupBlocked": "Das Öffnen der Loginseite wurde geblockt. Bitte überprüfen Sie Ihre Browser-Einstellungen.",
   "cantConnect": "Verbindung kann nicht aufgebaut werden.",

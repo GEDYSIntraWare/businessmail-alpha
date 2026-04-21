@@ -9,6 +9,7 @@
   "webIntCheck": "URL could not be opened.\nPlease check your input.",
   "webIntLogoutFailed": "Could not log out!",
   "webIntConfig": "Enter/change application path",
+  "applicationPath": "Application path",
   "reload": "Reload",
   "popupBlocked": "Opening the login page was blocked. Please check your browser settings.",
   "cantConnect": "Cannot establish connection.",
