@@ -290,6 +290,8 @@
   "urlLockedByManifest": "URL has been set by the administrator and cannot be changed.",
   "urlFieldTooltip": "Enter the URL of the CRM system",
   "delegatedLoginFailed": "Automatic login failed. Please log in manually.",
+  "delegatedLoginAccountLocked": "Your account is locked. Please contact your administrator.",
+  "delegatedLoginVersionTooOld": "Automatic login is not supported by this BA version (version 12+ required). Please log in manually.",
   "giCouldHaveMore": "Note: Only the first 10 documents are displayed.",
   "documented": "Documented",
   "postDocNoTargetFolder": "No target folder selected to move the e-mail. E-mail was not moved. Please select a folder in the user-settings.",

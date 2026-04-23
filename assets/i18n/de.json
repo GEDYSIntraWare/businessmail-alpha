@@ -289,6 +289,8 @@
   "urlLockedByManifest": "URL wurde vom Administrator festgelegt und kann nicht geändert werden.",
   "urlFieldTooltip": "Geben Sie die URL des CRM-Systems ein",
   "delegatedLoginFailed": "Automatischer Login fehlgeschlagen. Bitte manuell einloggen.",
+  "delegatedLoginAccountLocked": "Ihr Konto ist gesperrt. Bitte wenden Sie sich an Ihren Administrator.",
+  "delegatedLoginVersionTooOld": "Automatischer Login wird von dieser BA-Version nicht unterstützt (Version 12+ erforderlich). Bitte manuell einloggen.",
   "showLess": "Weniger anzeigen",
   "giCouldHaveMore": "Hinweis: Es werden nur die ersten 10 Dokumente angezeigt.",
   "documented": "Dokumentiert",
