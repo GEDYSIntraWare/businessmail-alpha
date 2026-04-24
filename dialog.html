@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Dialog - Business Mail</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript" src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "Segoe UI", "Segoe UI Web (West European)", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+            font-size: 12px;
+            color: #4d4d4d;
+            background: #ffffff;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .dialog-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            padding: 0;
+        }
+
+        /* Loading State */
+        .dialog-loading {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            gap: 12px;
+        }
+
+        .spinner {
+            width: 30px;
+            height: 30px;
+            border: 3px solid rgba(242, 142, 0, 0.2);
+            border-top: 3px solid #f28e00;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .loading-text {
+            color: #4d4d4d;
+            font-size: 12px;
+        }
+
+        .error-text {
+            color: #dc0000;
+            font-size: 12px;
+            text-align: center;
+            max-width: 300px;
+        }
+
+        /* Dialog Content */
+        .dialog-content {
+            display: none;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .dialog-content.visible {
+            display: flex;
+        }
+
+        /* Header - Business Mail Style mit Orange */
+        .dialog-header {
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: rgba(242, 142, 0, 0.1);
+            padding: 8px 12px;
+        }
+
+        .dialog-title {
+            font-size: 12px;
+            font-weight: bold;
+            color: #4d4d4d;
+            text-transform: uppercase;
+            margin: 0;
+            flex: 1;
+        }
+
+        /* Body */
+        .dialog-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 12px;
+        }
+
+        .dialog-message {
+            font-size: 13px;
+            line-height: 1.6;
+            color: #4d4d4d;
+        }
+
+        .dialog-data {
+            margin-top: 12px;
+            padding: 8px;
+            background-color: rgba(0, 0, 0, 0.04);
+            border-radius: 5px;
+            border: 1px solid #e5e5e5;
+            overflow-x: auto;
+        }
+
+        .dialog-data pre {
+            font-size: 11px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            white-space: pre-wrap;
+            word-break: break-word;
+            margin: 0;
+            color: #4d4d4d;
+        }
+
+        /* Form Fields */
+        .dialog-form {
+            flex: 1;
+            overflow-y: auto;
+            padding: 12px;
+        }
+
+        .form-group {
+            margin-bottom: 14px;
+        }
+
+        .form-label {
+            display: block;
+            margin-bottom: 4px;
+            font-size: 12px;
+            font-weight: 500;
+            color: #4d4d4d;
+        }
+
+        .form-label .required {
+            color: #dc0000;
+            margin-left: 2px;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 6px 10px;
+            font-size: 12px;
+            font-family: inherit;
+            border: 1px solid #e5e5e5;
+            border-radius: 5px;
+            color: #4d4d4d;
+            background-color: #fff;
+            transition: border-color 0.15s ease, background-color 0.15s ease;
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: #f28e00;
+            background-color: #fff;
+            box-shadow: 0 0 0 1px rgba(242, 142, 0, 0.3);
+        }
+
+        textarea.form-control {
+            resize: vertical;
+            min-height: 70px;
+        }
+
+        select.form-control {
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%234d4d4d' d='M2 4l4 4 4-4z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 10px center;
+            padding-right: 30px;
+            min-height: 28px;
+            cursor: pointer;
+        }
+
+        .checkbox-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .form-checkbox {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            accent-color: #f28e00;
+            border-radius: 50%;
+        }
+
+        .checkbox-label {
+            font-size: 12px;
+            color: #4d4d4d;
+        }
+
+        /* Actions - Footer Style */
+        .dialog-actions {
+            flex-shrink: 0;
+            display: flex;
+            justify-content: flex-end;
+            gap: 8px;
+            padding: 10px 12px;
+            border-top: solid 2px #f0f1f1;
+            background-color: #fff;
+        }
+
+        .btn {
+            padding: 0 16px;
+            font-size: 12px;
+            font-weight: bold;
+            font-family: inherit;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            height: 28px;
+            box-sizing: border-box;
+            min-width: 70px;
+            cursor: pointer;
+            transition: background-color 0.15s ease, transform 0.1s ease;
+            border: none;
+            overflow: hidden;
+            white-space: nowrap;
+            border-radius: 2px;
+        }
+
+        .btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn-primary {
+            background-color: #f28e00;
+            color: #ffffff;
+        }
+
+        .btn-primary:hover {
+            background-color: #d97d00;
+        }
+
+        .btn-primary:active {
+            background-color: #c07000;
+        }
+
+        .btn-secondary {
+            background-color: #e6e8e8;
+            color: #4d4d4d;
+            border: 1px solid #c7c7c7;
+        }
+
+        .btn-secondary:hover {
+            background-color: #d4d6d6;
+        }
+
+        .btn-secondary:active {
+            background-color: #bfbfbf;
+        }
+
+        .btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* Scrollbar - Business Mail Style */
+        ::-webkit-scrollbar {
+            height: 13px;
+            width: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            border-radius: 6px;
+            background: #f9f9f9;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 6px;
+            background: #e4e4e4;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #d4d4d4;
+        }
+
+        .doc-selector {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            padding: 0;
+        }
+
+        .doc-selector-search {
+            flex-shrink: 0;
+            padding: 10px 12px 6px;
+        }
+
+        .doc-selector-search-input {
+            width: 100%;
+            padding: 7px 10px 7px 32px;
+            font-size: 12px;
+            font-family: inherit;
+            border: 1px solid #e5e5e5;
+            border-radius: 5px;
+            color: #4d4d4d;
+            background-color: #fff;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23999' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='8'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: 10px center;
+            transition: border-color 0.15s ease, background-color 0.15s ease;
+        }
+
+        .doc-selector-search-input:focus {
+            outline: none;
+            border-color: #f28e00;
+            box-shadow: 0 0 0 1px rgba(242, 142, 0, 0.3);
+        }
+
+        .doc-selector-db-bar {
+            flex-shrink: 0;
+            padding: 0 12px 8px;
+        }
+
+        .doc-selector-db-select {
+            width: 100%;
+            padding: 5px 28px 5px 8px;
+            font-size: 11px;
+            font-family: inherit;
+            border: 1px solid #e5e5e5;
+            border-radius: 5px;
+            color: #4d4d4d;
+            background-color: #fafafa;
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%234d4d4d' d='M2 4l4 4 4-4z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 8px center;
+            cursor: pointer;
+        }
+
+        .doc-selector-db-select:focus {
+            outline: none;
+            border-color: #f28e00;
+        }
+
+        .doc-selector-results {
+            flex: 1;
+            overflow-y: auto;
+            padding: 0 12px;
+        }
+
+        .doc-selector-status {
+            padding: 16px 12px;
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            font-style: italic;
+        }
+
+        .doc-selector-status .spinner-small {
+            width: 20px;
+            height: 20px;
+            border: 2px solid rgba(242, 142, 0, 0.2);
+            border-top: 2px solid #f28e00;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 8px;
+        }
+
+        .doc-result-item {
+            display: flex;
+            align-items: center;
+            padding: 6px 8px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.12s ease;
+            user-select: none;
+            -webkit-user-select: none;
+            border-bottom: 1px solid #f5f5f5;
+        }
+
+        .doc-result-item:hover {
+            background-color: rgba(242, 142, 0, 0.08);
+        }
+
+        .doc-result-item.selected {
+            background-color: rgba(242, 142, 0, 0.15);
+            outline: 1px solid rgba(242, 142, 0, 0.4);
+        }
+
+        .doc-result-img {
+            flex-shrink: 0;
+            width: 24px;
+            height: 24px;
+            margin-right: 8px;
+            object-fit: contain;
+        }
+
+        .doc-result-text {
+            flex: 1;
+            overflow: hidden;
+            min-width: 0;
+        }
+
+        .doc-result-line1 {
+            font-size: 12px;
+            font-weight: 600;
+            color: #4d4d4d;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .doc-result-line2,
+        .doc-result-line3 {
+            font-size: 11px;
+            color: #888;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .doc-selector-recently-label {
+            padding: 4px 0 2px;
+            font-size: 11px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="dialog-container">
+        <!-- Loading State -->
+        <div id="loadingState" class="dialog-loading">
+            <div class="spinner"></div>
+            <p class="loading-text">Dialog wird geladen...</p>
+            <p id="errorText" class="error-text" style="display: none;"></p>
+        </div>
+
+        <div id="dialogContent" class="dialog-content">
+            <!-- Header -->
+            <div id="headerSection" class="dialog-header" style="display: none;">
+                <h1 id="dialogTitle" class="dialog-title">Dialog</h1>
+            </div>
+
+            <div id="bodySection" class="dialog-body" style="display: none;">
+                <p id="dialogMessage" class="dialog-message"></p>
+                <div id="dialogData" class="dialog-data" style="display: none;">
+                    <pre id="dialogDataContent"></pre>
+                </div>
+            </div>
+
+            <div id="formSection" class="dialog-form" style="display: none;">
+                <div id="formFields"></div>
+            </div>
+
+            <div id="docSelectorSection" class="doc-selector" style="display: none;">
+                <div class="doc-selector-search">
+                    <input type="text" id="docSearchInput" class="doc-selector-search-input" placeholder="Suchen..."
+                        autocomplete="off" />
+                </div>
+                <div id="docDbBar" class="doc-selector-db-bar" style="display: none;">
+                    <select id="docDbSelect" class="doc-selector-db-select"></select>
+                </div>
+                <div id="docResultsContainer" class="doc-selector-results">
+                    <div id="docStatus" class="doc-selector-status">
+                        <div class="spinner-small"></div>
+                        <span id="docStatusText">Laden...</span>
+                    </div>
+                    <div id="docResultsList"></div>
+                </div>
+            </div>
+
+
+            <div id="actionsSection" class="dialog-actions" style="display: none;">
+                <button id="cancelBtn" type="button" class="btn btn-secondary">Abbrechen</button>
+                <button id="confirmBtn" type="button" class="btn btn-primary">OK</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let dialogPayload = null;
+        let formData = {};
+        var inputDebounceTimers = {};
+
+        Office.onReady(function (info) {
+            if (Office.context.ui && Office.context.ui.addHandlerAsync) {
+                Office.context.ui.addHandlerAsync(
+                    Office.EventType.DialogParentMessageReceived,
+                    onParentMessage,
+                    function (asyncResult) {
+                        if (asyncResult.status !== Office.AsyncResultStatus.Succeeded) {
+                            showError('An error occurred while setting up dialog communication: ' + asyncResult.error.message);
+                        } else {
+                            signalReadyToParent();
+                        }
+                    }
+                );
+            } else {
+                showError('Office.js Dialog-API is not available');
+            }
+
+            document.getElementById('confirmBtn').addEventListener('click', onConfirm);
+            document.getElementById('cancelBtn').addEventListener('click', onCancel);
+        });
+
+        function signalReadyToParent() {
+            try {
+                Office.context.ui.messageParent(JSON.stringify({ __dialogReady: true }));
+            } catch (e) {
+            }
+        }
+
+        function onParentMessage(arg) {
+
+            try {
+                if (arg && arg.message) {
+                    var parsed = JSON.parse(arg.message);
+
+                    if (parsed.__dialogUpdate === true && parsed.__updateType) {
+                        handleDialogUpdate(parsed);
+                        return;
+                    }
+
+                    dialogPayload = parsed;
+                    renderDialog(dialogPayload);
+                } else {
+                    throw new Error('Invalid message format');
+                }
+            } catch (e) {
+                showError('Error parsing dialog payload: ' + e.message);
+            }
+        }
+
+        function renderDialog(payload) {
+            const components = payload.components || ['header', 'body', 'actions'];
+
+            document.getElementById('loadingState').style.display = 'none';
+            document.getElementById('dialogContent').classList.add('visible');
+
+            if (components.includes('header')) {
+                renderHeader(payload);
+            }
+
+            if (components.includes('body')) {
+                renderBody(payload);
+            }
+
+            if (components.includes('form-fields')) {
+                renderFormFields(payload);
+            }
+
+            if (components.includes('document-selector')) {
+                renderDocumentSelector(payload);
+            }
+
+            if (components.includes('actions')) {
+                renderActions(payload);
+            }
+        }
+
+        function renderHeader(payload) {
+            const section = document.getElementById('headerSection');
+            const title = document.getElementById('dialogTitle');
+
+            title.textContent = payload.title || 'Dialog';
+            section.style.display = 'block';
+        }
+
+        function renderBody(payload) {
+            const section = document.getElementById('bodySection');
+            const message = document.getElementById('dialogMessage');
+            const dataContainer = document.getElementById('dialogData');
+            const dataContent = document.getElementById('dialogDataContent');
+
+            if (payload.message) {
+                message.textContent = payload.message;
+            }
+
+            if (payload.data && payload.type === 'info') {
+                dataContent.textContent = JSON.stringify(payload.data, null, 2);
+                dataContainer.style.display = 'block';
+            }
+
+            section.style.display = 'block';
+        }
+
+        function renderFormFields(payload) {
+            const section = document.getElementById('formSection');
+            const container = document.getElementById('formFields');
+
+            const fields = (payload.data && payload.data.fields) || [];
+
+            if (fields.length === 0) {
+                container.innerHTML = '<p style="color: #605e5c; font-style: italic;">Keine Formularfelder definiert.</p>';
+                section.style.display = 'block';
+                return;
+            }
+
+            let html = '';
+
+            fields.forEach(function (field) {
+                const required = field.required ? '<span class="required">*</span>' : '';
+                const requiredAttr = field.required ? 'required' : '';
+
+                html += '<div class="form-group">';
+                html += '<label class="form-label" for="' + field.name + '">' + field.label + required + '</label>';
+
+                switch (field.type) {
+                    case 'textarea':
+                        html += '<textarea id="' + field.name + '" name="' + field.name + '" class="form-control" ' +
+                            'placeholder="' + (field.placeholder || '') + '" ' + requiredAttr + ' rows="3"></textarea>';
+                        break;
+
+                    case 'select':
+                        html += '<select id="' + field.name + '" name="' + field.name + '" class="form-control" ' + requiredAttr + '>';
+                        html += '<option value="" disabled selected>' + (field.placeholder || 'Bitte wählen...') + '</option>';
+                        if (field.options) {
+                            field.options.forEach(function (opt) {
+                                html += '<option value="' + opt.value + '">' + opt.label + '</option>';
+                            });
+                        }
+                        html += '</select>';
+                        break;
+
+                    case 'checkbox':
+                        html += '<div class="checkbox-wrapper">';
+                        html += '<input type="checkbox" id="' + field.name + '" name="' + field.name + '" class="form-checkbox" />';
+                        html += '<span class="checkbox-label">' + (field.placeholder || '') + '</span>';
+                        html += '</div>';
+                        break;
+
+                    default:
+                        html += '<input type="' + (field.type || 'text') + '" id="' + field.name + '" name="' + field.name + '" ' +
+                            'class="form-control" placeholder="' + (field.placeholder || '') + '" ' + requiredAttr + ' />';
+                }
+
+                html += '</div>';
+
+                formData[field.name] = field.defaultValue !== undefined ? field.defaultValue :
+                    (field.type === 'checkbox' ? false : '');
+            });
+
+            container.innerHTML = html;
+            section.style.display = 'block';
+
+            fields.forEach(function (field) {
+                const element = document.getElementById(field.name);
+                if (element) {
+                    element.addEventListener('change', function (e) {
+                        if (field.type === 'checkbox') {
+                            formData[field.name] = e.target.checked;
+                        } else {
+                            formData[field.name] = e.target.value;
+                        }
+                    });
+
+                    if (field.type !== 'checkbox' && field.type !== 'select') {
+                        element.addEventListener('input', function (e) {
+                            formData[field.name] = e.target.value;
+                            if (field.emitInputEvents) {
+                                sendDebouncedInputEvent(field.name, e.target.value, 350);
+                            }
+                        });
+                    }
+
+                    if (field.defaultValue !== undefined) {
+                        if (field.type === 'checkbox') {
+                            element.checked = field.defaultValue;
+                        } else {
+                            element.value = field.defaultValue;
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderActions(payload) {
+            const section = document.getElementById('actionsSection');
+            const confirmBtn = document.getElementById('confirmBtn');
+            const cancelBtn = document.getElementById('cancelBtn');
+
+            if (payload.labels) {
+                if (payload.labels.confirm) {
+                    confirmBtn.textContent = payload.labels.confirm;
+                }
+                if (payload.labels.cancel) {
+                    cancelBtn.textContent = payload.labels.cancel;
+                }
+            }
+
+            section.style.display = 'flex';
+
+            updateConfirmButtonState();
+        }
+
+        function onConfirm() {
+            if (dialogPayload && dialogPayload.components &&
+                dialogPayload.components.includes('document-selector')) {
+                if (!docSelectorState.selectedItem) {
+                    return;
+                }
+                sendResultToParent({ ok: true, data: docSelectorState.selectedItem });
+                return;
+            }
+
+            const resultData = dialogPayload && dialogPayload.components &&
+                dialogPayload.components.includes('form-fields')
+                ? collectFormData()
+                : dialogPayload ? dialogPayload.data : undefined;
+
+            sendResultToParent({ ok: true, data: resultData });
+        }
+
+        function onCancel() {
+            sendResultToParent({ ok: false, error: 'Canceled' });
+        }
+
+        function collectFormData() {
+            const fields = (dialogPayload && dialogPayload.data && dialogPayload.data.fields) || [];
+            const result = {};
+
+            fields.forEach(function (field) {
+                const element = document.getElementById(field.name);
+                if (element) {
+                    if (field.type === 'checkbox') {
+                        result[field.name] = element.checked;
+                    } else {
+                        result[field.name] = element.value;
+                    }
+                }
+            });
+
+            return result;
+        }
+
+        function sendResultToParent(result) {
+
+            try {
+                Office.context.ui.messageParent(JSON.stringify(result));
+            } catch (e) {
+                showError('Error while sending result to parent: ' + e.message);
+            }
+        }
+
+        function showError(message) {
+            var errorText = document.getElementById('errorText');
+            var spinner = document.querySelector('.spinner');
+            var loadingText = document.querySelector('.loading-text');
+
+            if (spinner) spinner.style.display = 'none';
+            if (loadingText) loadingText.style.display = 'none';
+
+            errorText.textContent = message;
+            errorText.style.display = 'block';
+        }
+
+        // --- Live-Update Handler ---
+
+        /**
+         * Verarbeitet eingehende Live-Updates vom Parent.
+         * Erkennt den Update-Typ anhand von __updateType und delegiert entsprechend.
+         */
+        function handleDialogUpdate(update) {
+            switch (update.__updateType) {
+                case 'select-options':
+                    handleSelectOptionsUpdate(update);
+                    break;
+                case 'field-value':
+                    handleFieldValueUpdate(update);
+                    break;
+                case 'message':
+                    handleMessageUpdate(update);
+                    break;
+                case 'title':
+                    handleTitleUpdate(update);
+                    break;
+                case 'search-results':
+                    handleSearchResultsUpdate(update);
+                    break;
+            }
+        }
+
+        function handleSelectOptionsUpdate(update) {
+            if (update.fieldName === 'database' && dialogPayload && dialogPayload.components &&
+                dialogPayload.components.includes('document-selector')) {
+                handleDocDbOptionsUpdate(update);
+                return;
+            }
+
+            var selectEl = document.getElementById(update.fieldName);
+            if (!selectEl || selectEl.tagName !== 'SELECT') return;
+
+            var newOptions = update.options || [];
+            var mode = update.mode || 'append';
+
+            if (mode === 'replace') {
+                var placeholder = selectEl.querySelector('option[disabled]');
+                selectEl.innerHTML = '';
+                if (placeholder) {
+                    selectEl.appendChild(placeholder);
+                }
+
+                newOptions.forEach(function (opt) {
+                    var optionEl = document.createElement('option');
+                    optionEl.value = opt.value;
+                    optionEl.textContent = opt.label;
+                    selectEl.appendChild(optionEl);
+                });
+
+                if (selectEl.value && !newOptions.some(function (o) { return o.value === selectEl.value; })) {
+                    selectEl.value = '';
+                    formData[update.fieldName] = '';
+                }
+            } else {
+                var existingValues = {};
+                Array.prototype.forEach.call(selectEl.options, function (opt) {
+                    existingValues[opt.value] = true;
+                });
+
+                newOptions.forEach(function (opt) {
+                    if (!existingValues[opt.value]) {
+                        var optionEl = document.createElement('option');
+                        optionEl.value = opt.value;
+                        optionEl.textContent = opt.label;
+                        selectEl.appendChild(optionEl);
+                    }
+                });
+            }
+
+            if (dialogPayload && dialogPayload.data && dialogPayload.data.fields) {
+                var field = dialogPayload.data.fields.find(function (f) {
+                    return f.name === update.fieldName;
+                });
+                if (field) {
+                    if (mode === 'replace') {
+                        field.options = newOptions;
+                    } else {
+                        var existingFieldValues = {};
+                        (field.options || []).forEach(function (o) { existingFieldValues[o.value] = true; });
+                        newOptions.forEach(function (o) {
+                            if (!existingFieldValues[o.value]) {
+                                field.options = field.options || [];
+                                field.options.push(o);
+                            }
+                        });
+                    }
+                }
+            }
+        }
+
+        function handleFieldValueUpdate(update) {
+            var element = document.getElementById(update.fieldName);
+            if (!element) return;
+
+            if (element.type === 'checkbox') {
+                element.checked = !!update.value;
+                formData[update.fieldName] = !!update.value;
+            } else {
+                element.value = update.value;
+                formData[update.fieldName] = update.value;
+            }
+        }
+
+        function handleMessageUpdate(update) {
+            var messageEl = document.getElementById('dialogMessage');
+            if (messageEl) {
+                messageEl.textContent = update.message;
+            }
+        }
+
+
+        function handleTitleUpdate(update) {
+            var titleEl = document.getElementById('dialogTitle');
+            if (titleEl) {
+                titleEl.textContent = update.title;
+            }
+        }
+
+        var docSelectorState = {
+            selectedItem: null,
+            results: [],
+            imageBaseUrl: ''
+        };
+
+        function renderDocumentSelector(payload) {
+            var section = document.getElementById('docSelectorSection');
+            var searchInput = document.getElementById('docSearchInput');
+            var dbBar = document.getElementById('docDbBar');
+            var dbSelect = document.getElementById('docDbSelect');
+            var statusEl = document.getElementById('docStatus');
+            var statusText = document.getElementById('docStatusText');
+
+            var data = payload.data || {};
+            docSelectorState.imageBaseUrl = data.imageBaseUrl || '';
+            searchInput.placeholder = data.searchPlaceholder || 'Suchen...';
+            statusText.textContent = data.loadingLabel || 'Laden...';
+
+            if (data.databases && data.databases.length > 0) {
+                dbSelect.innerHTML = '';
+                data.databases.forEach(function (db) {
+                    var opt = document.createElement('option');
+                    opt.value = db.value;
+                    opt.textContent = db.label;
+                    dbSelect.appendChild(opt);
+                });
+                dbBar.style.display = 'block';
+
+                dbSelect.addEventListener('change', function () {
+                    docSelectorState.selectedItem = null;
+                    docSelectorState.results = [];
+                    updateConfirmButtonState();
+                    renderDocResults([]);
+                    showDocStatus(data.loadingLabel || 'Laden...');
+                    sendEventToParent('db-changed', 'database', dbSelect.value);
+                    sendEventToParent('input-changed', 'search', searchInput.value);
+                });
+            }
+
+            searchInput.addEventListener('input', function () {
+
+                updateConfirmButtonState();
+                sendDebouncedInputEvent('search', searchInput.value, 350);
+            });
+
+            section.style.display = 'flex';
+            setTimeout(function () { searchInput.focus(); }, 100);
+        }
+
+        function handleSearchResultsUpdate(update) {
+            var results = update.results || [];
+            var mode = update.mode || 'replace';
+            var statusEl = document.getElementById('docStatus');
+
+            if (mode === 'replace') {
+                docSelectorState.results = results;
+
+                if (docSelectorState.selectedItem) {
+                    var stillExists = results.some(function (r) {
+                        return r.fdMe === docSelectorState.selectedItem.fdMe;
+                    });
+                    if (!stillExists) {
+                        docSelectorState.selectedItem = null;
+                        updateConfirmButtonState();
+                    }
+                }
+            } else {
+                var existingIds = {};
+                docSelectorState.results.forEach(function (r) { existingIds[r.fdMe] = true; });
+                results.forEach(function (r) {
+                    if (!existingIds[r.fdMe]) {
+                        docSelectorState.results.push(r);
+                    }
+                });
+            }
+
+            if (docSelectorState.results.length > 0) {
+                statusEl.style.display = 'none';
+            } else {
+                var noResults = (dialogPayload && dialogPayload.data && dialogPayload.data.noResultsLabel) || 'Keine Ergebnisse';
+                showDocStatus(noResults);
+            }
+
+            renderDocResults(docSelectorState.results);
+        }
+
+        function renderDocResults(results) {
+            var container = document.getElementById('docResultsList');
+            container.innerHTML = '';
+
+            results.forEach(function (item) {
+                var div = document.createElement('div');
+                div.className = 'doc-result-item';
+                div.setAttribute('data-fdme', item.fdMe);
+
+                if (docSelectorState.selectedItem && docSelectorState.selectedItem.fdMe === item.fdMe) {
+                    div.classList.add('selected');
+                }
+
+                if (item.imageBase64 || item.image) {
+                    var img = document.createElement('img');
+                    img.className = 'doc-result-img';
+                    if (item.imageBase64) {
+                        // Base64: check if it already has the data URI prefix
+                        if (item.imageBase64.indexOf('data:') === 0) {
+                            img.src = item.imageBase64;
+                        } else {
+                            img.src = 'data:image/png;base64,' + item.imageBase64;
+                        }
+                    } else {
+                        // Image path is already fully resolved by the parent (e.g. "./assets/images/vwicn025.svg")
+                        img.src = item.image;
+                    }
+                    img.alt = '';
+                    img.onerror = function () { this.style.display = 'none'; };
+                    div.appendChild(img);
+                }
+
+                var textDiv = document.createElement('div');
+                textDiv.className = 'doc-result-text';
+
+                if (item.lineOne) {
+                    var l1 = document.createElement('div');
+                    l1.className = 'doc-result-line1';
+                    l1.textContent = item.lineOne;
+                    l1.title = item.lineOne;
+                    textDiv.appendChild(l1);
+                }
+                if (item.lineTwo) {
+                    var l2 = document.createElement('div');
+                    l2.className = 'doc-result-line2';
+                    l2.textContent = item.lineTwo;
+                    l2.title = item.lineTwo;
+                    textDiv.appendChild(l2);
+                }
+                if (item.lineThree) {
+                    var l3 = document.createElement('div');
+                    l3.className = 'doc-result-line3';
+                    l3.textContent = item.lineThree;
+                    l3.title = item.lineThree;
+                    textDiv.appendChild(l3);
+                }
+
+                div.appendChild(textDiv);
+
+                div.addEventListener('click', function () {
+                    onDocItemClicked(item, div);
+                });
+
+                div.addEventListener('dblclick', function () {
+                    docSelectorState.selectedItem = item;
+                    updateConfirmButtonState();
+                    onConfirm();
+                });
+
+                container.appendChild(div);
+            });
+        }
+
+        function onDocItemClicked(item, element) {
+            var prev = document.querySelector('.doc-result-item.selected');
+            if (prev) prev.classList.remove('selected');
+
+            element.classList.add('selected');
+            docSelectorState.selectedItem = item;
+            updateConfirmButtonState();
+        }
+
+        function updateConfirmButtonState() {
+            var btn = document.getElementById('confirmBtn');
+            if (!btn) return;
+            if (dialogPayload && dialogPayload.components &&
+                dialogPayload.components.includes('document-selector')) {
+                btn.disabled = !docSelectorState.selectedItem;
+            }
+        }
+
+        function showDocStatus(text) {
+            var statusEl = document.getElementById('docStatus');
+            var statusText = document.getElementById('docStatusText');
+            var spinner = statusEl.querySelector('.spinner-small');
+            if (spinner) spinner.style.display = 'none';
+            statusText.textContent = text;
+            statusEl.style.display = 'block';
+        }
+
+        function showDocLoading(text) {
+            var statusEl = document.getElementById('docStatus');
+            var statusText = document.getElementById('docStatusText');
+            var spinner = statusEl.querySelector('.spinner-small');
+            if (spinner) spinner.style.display = 'block';
+            statusText.textContent = text || 'Laden...';
+            statusEl.style.display = 'block';
+        }
+
+        function handleDocDbOptionsUpdate(update) {
+            var dbBar = document.getElementById('docDbBar');
+            var dbSelect = document.getElementById('docDbSelect');
+            var searchInput = document.getElementById('docSearchInput');
+            if (!dbBar || !dbSelect) return;
+
+            var newOptions = update.options || [];
+            if (newOptions.length <= 1) return;
+
+            dbSelect.innerHTML = '';
+            newOptions.forEach(function (opt) {
+                var optionEl = document.createElement('option');
+                optionEl.value = opt.value;
+                optionEl.textContent = opt.label;
+                dbSelect.appendChild(optionEl);
+            });
+
+            dbBar.style.display = 'block';
+
+            if (!dbSelect._hasChangeListener) {
+                dbSelect._hasChangeListener = true;
+                var data = (dialogPayload && dialogPayload.data) || {};
+                dbSelect.addEventListener('change', function () {
+                    docSelectorState.selectedItem = null;
+                    docSelectorState.results = [];
+                    updateConfirmButtonState();
+                    renderDocResults([]);
+                    showDocStatus(data.loadingLabel || 'Laden...');
+                    sendEventToParent('db-changed', 'database', dbSelect.value);
+                    sendEventToParent('input-changed', 'search', searchInput ? searchInput.value : '');
+                });
+            }
+        }
+
+        function sendDebouncedInputEvent(fieldName, value, delayMs) {
+            if (inputDebounceTimers[fieldName]) {
+                clearTimeout(inputDebounceTimers[fieldName]);
+            }
+            inputDebounceTimers[fieldName] = setTimeout(function () {
+                sendEventToParent('input-changed', fieldName, value);
+            }, delayMs);
+        }
+
+        function sendEventToParent(eventType, fieldName, value) {
+            try {
+                Office.context.ui.messageParent(JSON.stringify({
+                    __dialogEvent: true,
+                    eventType: eventType,
+                    fieldName: fieldName,
+                    value: value
+                }));
+            } catch (e) {
+            }
+        }
+    </script>
+</body>
+
+</html>
