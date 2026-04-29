@@ -290,7 +290,7 @@
   "urlFieldTooltip": "Geben Sie die URL des CRM-Systems ein",
   "delegatedLoginFailed": "Automatischer Login fehlgeschlagen. Bitte manuell einloggen.",
   "delegatedLoginAccountLocked": "Benutzer/Passwort ungültig oder Zugang gesperrt.",
-  "delegatedLoginVersionTooOld": "Automatische Anmeldung wird von CXM erst ab Version 12 unterstützt. Bitte melden Sie sich manuell an.",
+  "delegatedLoginVersionTooOld": "Der automatische Login wird von Ihrem CXM nicht unterstützt. Bitte melden Sie sich manuell an.",
   "showLess": "Weniger anzeigen",
   "giCouldHaveMore": "Hinweis: Es werden nur die ersten 10 Dokumente angezeigt.",
   "documented": "Dokumentiert",

@@ -291,7 +291,7 @@
   "urlFieldTooltip": "Enter the URL of the CRM system",
   "delegatedLoginFailed": "Automatic login failed. Please log in manually.",
   "delegatedLoginAccountLocked": "Your account is locked or your credentials are invalid.",
-  "delegatedLoginVersionTooOld": "Automatic login requires CXM version 12 or higher. Please log in manually.",
+  "delegatedLoginVersionTooOld": "Automatic login is not supported by your CXM version. Please log in manually.",
   "giCouldHaveMore": "Note: Only the first 10 documents are displayed.",
   "documented": "Documented",
   "postDocNoTargetFolder": "No target folder selected to move the e-mail. E-mail was not moved. Please select a folder in the user-settings.",
