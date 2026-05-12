@@ -345,6 +345,7 @@
   "openParticipationQuestion": "Open the participation now?",
   "emailParticipationWasConverted": "The email was converted into a participation.",
   "successStatusUpdate": "Status updated successfully.",
+  "searchEvents": "Search events",
   "errorStatusUpdate": "Error updating status.",
   "successEmailDocumentation": "Email documented successfully.",
   "warningEmailDocumentation": "Email could not be documented.",
