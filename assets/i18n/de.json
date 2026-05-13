@@ -323,6 +323,7 @@
   "multiDocSuccessAll": "{count} E-Mail(s) erfolgreich dokumentiert.",
   "multiDocSuccessPartial": "{success}/{total} E-Mail(s) erfolgreich dokumentiert.",
   "eventSelectTitle": "Veranstaltung auswählen",
+  "searchEvents": "Veranstaltungen suchen",
   "LC53161": "E-Mail in Teilnahme wandeln",
   "createEvent": "Teilnahme erstellen",
   "eventParticipants": "Teilnehmer",
