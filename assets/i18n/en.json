@@ -138,6 +138,7 @@
   "addressDatabase": "Address Database",
   "to": "To",
   "itemNotSupported": "This type of outlook item is not supported in this add-in.",
+  "noItemSelected": "Please select an e-mail or appointment to use the add-in.",
   "recentlyUsed": "Recently Used",
   "documentVerb": "Document",
   "ticketVerb": "Create ticket",

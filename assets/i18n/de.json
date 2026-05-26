@@ -147,6 +147,7 @@
   "addressDatabase": "Adressdatenbank",
   "to": "An",
   "itemNotSupported": "Diese Art von Outlook-Element wird von diesem Add-in nicht unterstützt.",
+  "noItemSelected": "Bitte wählen Sie eine E-Mail oder einen Termin aus, um das Add-in zu nutzen.",
   "recentlyUsed": "Zuletzt Verwendet",
   "documentVerb": "Dokumentieren",
   "ticketVerb": "Ticket erstellen",
