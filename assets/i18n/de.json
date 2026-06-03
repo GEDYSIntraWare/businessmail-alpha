@@ -365,5 +365,6 @@
   "serviceList": "Leistungen",
   "startTime": "Startzeit",
   "endTime": "Endzeit",
-  "eventFromEmail": "Teilnahme"
+  "eventFromEmail": "Teilnahme",
+  "noDestinationSelected": "Kein Ziel ausgewählt. Bitte wählen Sie ein Ziel für diese Aktion aus."
 }

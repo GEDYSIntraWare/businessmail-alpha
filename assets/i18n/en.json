@@ -365,5 +365,6 @@
   "serviceList": "Services",
   "startTime": "Start Time",
   "endTime": "End Time",
-  "eventFromEmail": "Participation"
+  "eventFromEmail": "Participation",
+  "noDestinationSelected": "No destination selected. Please select a destination for this action."
 }
