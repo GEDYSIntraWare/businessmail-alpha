@@ -294,6 +294,7 @@
   "delegatedLoginFailed": "Automatischer Login fehlgeschlagen. Bitte manuell einloggen.",
   "delegatedLoginAccountLocked": "Benutzer/Passwort ungültig oder Zugang gesperrt.",
   "delegatedLoginVersionTooOld": "Der automatische Login wird von Ihrem CXM nicht unterstützt. Bitte melden Sie sich manuell an.",
+  "bm4oDisabled": "Das Add-In steht nicht zur Verfügung. Bitte kontaktieren Sie Ihren IT-Administrator.",
   "showLess": "Weniger anzeigen",
   "giCouldHaveMore": "Hinweis: Es werden nur die ersten 10 Dokumente angezeigt.",
   "documented": "Dokumentiert",
