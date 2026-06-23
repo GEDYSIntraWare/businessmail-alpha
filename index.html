@@ -35,7 +35,18 @@
             }
 
             // Eingeloggt?
-            if (window.localStorage.getItem('taskpaneLoggedIn') !== '1') {
+            const loginTimestamp = window.localStorage.getItem('taskpaneLoggedIn');
+            if (!loginTimestamp) {
+                // Nie eingeloggt gewesen
+                event.completed({ allowEvent: true });
+                return;
+            }
+
+            const loginAge = (new Date().getTime() - parseInt(loginTimestamp)) / 1000;
+            const MAX_LOGIN_TIME = 2;
+            if (loginAge > MAX_LOGIN_TIME) {
+                console.log('Login zu alt, E-Mail sofort senden: Dauer ist: ' + loginAge + 'Sekunden');
+                // Login älter 2 Sek -> also nicht mehr eingeloggt
                 event.completed({ allowEvent: true });
                 return;
             }
@@ -48,6 +59,6 @@
 
 <body class="mat-typography">
     <app-root></app-root>
-<script src="runtime.b8954edc9ee3f430.js" type="module"></script><script src="polyfills.24bcdf75108eda3d.js" type="module"></script><script src="main.c13bb218b5095d9b.js" type="module"></script></body>
+<script src="runtime.b8954edc9ee3f430.js" type="module"></script><script src="polyfills.24bcdf75108eda3d.js" type="module"></script><script src="main.f62ea05a6cf0d84a.js" type="module"></script></body>
 
 </html>
