@@ -265,7 +265,7 @@
   "catchwords": "Schlagwörter",
   "notSupportedYet": "Diese Funktion ist in dieser Umgebung momentan nicht verfügbar.",
   "errorTicketCreation": "Fehler beim Erstellen des Tickets: ",
-  "autoDocument": "Neue E-Mail automatisch dokumentieren",
+  "autoDocument": "Empfänger bei neuen E-Mails automatisch als Ziel übernehmen",
   "postDocSendActionLabel": "Empfangene/gesendete E-Mail nach Dokumentieren",
   "postDocSendActionLabelTooltip": "Diese Option gilt nur für eingegangene und bereits gesendet E-Mails. Nicht für neue E-Mails oder Antworten.",
   "postDocNone": "Im Postfach belassen",
