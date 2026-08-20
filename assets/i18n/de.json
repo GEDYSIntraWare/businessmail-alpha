@@ -266,7 +266,7 @@
   "catchwords": "Schlagwörter",
   "notSupportedYet": "Diese Funktion ist in dieser Umgebung momentan nicht verfügbar.",
   "errorTicketCreation": "Fehler beim Erstellen des Tickets: ",
-  "autoDocument": "Empfänger bei ausgehenden E-Mails automatisch als Ziel übernehmen",
+  "autoDocument": "Ausgehende E-Mails per Default dokumentieren",
   "postDocSendActionLabel": "Empfangene/gesendete E-Mail nach Dokumentieren",
   "postDocSendActionLabelTooltip": "Diese Option gilt nur für eingegangene und bereits gesendet E-Mails. Nicht für neue E-Mails oder Antworten.",
   "postDocNone": "Im Postfach belassen",
