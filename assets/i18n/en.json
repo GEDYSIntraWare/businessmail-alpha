@@ -193,7 +193,7 @@
   "DocumentedTo": "Documented to",
   "DocumentTo": "Document to",
   "Close": "Close",
-  "Disclaimer": "© 2017 - {{currentYear}} GEDYS IntraWare GmbH. All rights reserved. This software is subject to the GEDYS IntraWare software agreement. General information can be found at:",
+  "Disclaimer": "© 2017 - {{currentYear}} Proalpha GmbH. All rights reserved. This software is subject to the Proalpha software agreement. General information can be found at:",
   "LastNameRequired": "The last name of the contact is is required. ",
   "CompanyNameRequired": "The company name is required. ",
   "Mandant": "Legal Entity",
@@ -374,5 +374,9 @@
   "startTime": "Start Time",
   "endTime": "End Time",
   "eventFromEmail": "Participation",
-  "noDestinationSelected": "No destination selected. Please select a destination for this action."
+  "noDestinationSelected": "No destination selected. Please select a destination for this action.",
+  "error": "Error",
+  "warning": "Warning",
+  "info": "Info",
+  "success": "Success"
 }
