@@ -5,10 +5,10 @@
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>83d64bdb-0712-4d46-85f1-f397440fd755</Id>
   <Version>4.1.0</Version>
-  <ProviderName>GEDYS IntraWare</ProviderName>
+  <ProviderName>Proalpha</ProviderName>
   <DefaultLocale>de-DE</DefaultLocale>
   <DisplayName DefaultValue="Business Mail Alpha"/>
-  <Description DefaultValue="Business Mail for Outlook Web App by GEDYS IntraWare GmbH."/>
+  <Description DefaultValue="Business Mail for Outlook Web App by Proalpha GmbH."/>
   <IconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_64.png"/>
   <HighResolutionIconUrl DefaultValue="https://gomobile.gedys-intraware.de/businessmail-alpha/assets/gi_logo_128.png"/>
   <SupportUrl DefaultValue="https://www.gedys.com"/>
@@ -176,11 +176,11 @@
           <!-- <bt:Url id="JSRuntime.Url" DefaultValue="https://localhost:3000/businessmail/commands/commands.js" /> /commands/commands.html-->
         </bt:Urls>
         <bt:ShortStrings>
-          <bt:String id="GroupLabel" DefaultValue="GEDYS IntraWare Add-in"/>
-          <bt:String id="TaskpaneButton.Label" DefaultValue="GEDYS IntraWare Business Mail Alpha"/>
+          <bt:String id="GroupLabel" DefaultValue="Gedys Add-in"/>
+          <bt:String id="TaskpaneButton.Label" DefaultValue="Gedys Business Mail Alpha"/>
         </bt:ShortStrings>
         <bt:LongStrings>
-          <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Start GEDYS IntraWare Business Mail Alpha."/>
+          <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Start Gedys Business Mail Alpha."/>
         </bt:LongStrings>
       </Resources>
     </VersionOverrides>
